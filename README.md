@@ -28,30 +28,31 @@ The repository structure should be as follows:
 
 ```
 .
-|-- annotations-AD2AT-MD.csv
-|-- annotations-AD2AT-VIW.csv
 |-- download
 |   |-- ad2atFrames.txt
 |   |-- downloadLinksJpg.txt
 |   |-- downloadLinksJpgAd2at.txt
 |   |-- filterDownloadLinksJpg.sh
 |   `-- wgetParallelProtected.sh
+|-- jpgMD
+|   |-- 1004_Juno (1 folder = 1 movie)
+|   |   |-- 1004_Juno_00.00.32.849-00.00.35.458 (1 folder = 1 video clip)
+|   |   |   `-- 0009.jpg (1 jpg = 1 frame)
+|   |   `-- [...]
+|   |-- [...]
+|   `-- 1059_The_devil_wears_prada
 |-- jpgVIW
 |   |-- 243.jpg
 |   |-- [...]
 |   `-- 19505.jpg
-`-- jpgMD
-    |-- 1004_Juno : 1 folder = 1 movie
-    |   |-- 1001_Flight_00.00.32.106-00.00.41.879 : 1 folder = 1 scene
-    |   |   `-- 0001.jpg : 1 jpg = 1 frame
-    |   `-- [...]
-    |-- [...]
-    `-- 1059_The_devil_wears_prada
+|-- README.md
+|-- annotations-AD2AT-MD.csv
+`-- annotations-AD2AT-VIW.csv
 ```
 
 ## References
 
-If you use the AD2AT data, please cite:
+If you use the AD2AT data, please cite [1]:
 
 ```
 @inproceedings{lincker_ad2at_2025,
