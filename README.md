@@ -4,8 +4,8 @@ AD2AT: Audio Description to Alternative Text, a Dataset of Alternative Text from
 
 ## AD2AT-VIW: Visual Into Words
 
-Fine-grained annotation from the Visuals Into Words corpus, What Happens While film.
-All data is available on this repository.
+Fine-grained annotation of the audio-described film *What Happens While* (Visuals Into Words corpus).
+All the data is available in this repository.
 
 Access to the original VIW data: 
 - https://webs.uab.cat/viw/corpus/
@@ -13,16 +13,17 @@ Access to the original VIW data:
 
 ## AD2AT-MD: Movie Description
 
-V1. Fine-grained annotation from 10 films from MPII Movie Description dataset.
+Fine-grained annotation of 10 films from MPII Movie Description dataset.
 
+####
 To download AD2AT-MD images, you need to request access to MPII-MD dataset:
-https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/access-to-mpii-movie-description-dataset/
+https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/access-to-mpii-movie-description-dataset/ 
+You will get a username and password.
 
-You will get a username and password, then access to annotations, JPG and AVI lists. To download only the images that are annotated in AD2AT :
-- Navigate to the `download` repository.
-- Sign in to the MPII Movie Description access webpage and download the full list of video frames filenames (`downloadLinksJpg.txt`).
-- Run : `filterDownloadLinksJpg.sh`
-- Run : `wgetParallelProtected.sh downloadLinksJpgAd2at.txt <username> <password>`
+- Navigate to the `download` repository
+- Sign in to the MPII Movie Description access webpage and download the full list of video frames filenames (`downloadLinksJpg.txt`)
+- Run `filterDownloadLinksJpg.sh`
+- Run `wgetParallelProtected.sh downloadLinksJpgAd2at.txt <username> <password>`
 
 The repository structure should be as follows:
 
