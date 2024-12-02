@@ -1,10 +1,17 @@
 # AD2AT 
 
-AD2AT: Audio Description to Alternative Text, a Dataset of Alternative Text from Movies
+AD2AT: Audio Description to Alternative Text, a Dataset of Alternative Text from Movies [1]
 
-## AD2AT-VIW: Visual Into Words
+AD2AT comprises over 3,800 images paired with alt text, derived from audio-described movies. We take advantage of existing audio description datasets (Visuals Into Words and Movie Description) and provide a finer annotation to match one description to one image.
 
-Fine-grained annotation of the audio-described film *What Happens While* (Visuals Into Words corpus).
+| | AD2AT-MD | AD2AT-VIW |
+|:-|:-:|:-:|
+| Pairs | 3,607 | 226 |
+
+## AD2AT-VIW: Visuals Into Words
+
+Fine-grained annotation of the audio-described film *What Happens While* (Visuals Into Words corpus [2,3]). 
+AD2AT-VIW provides multiple alt text for 28 images, resulting in 226 text-image pairs.
 All the data is available in this repository.
 
 Access to the original VIW data: 
@@ -13,7 +20,8 @@ Access to the original VIW data:
 
 ## AD2AT-MD: Movie Description
 
-Fine-grained annotation of 10 films from MPII Movie Description dataset.
+Fine-grained annotation of 12 films from MPII Movie Description [4] dataset.
+AD2AT-MD provides alt text for 12 out of the 55 movies in MPII-MD, resulting in 3,607 text-image pairs.
 
 ####
 To download AD2AT-MD images, you need to request access to MPII-MD dataset:
@@ -25,7 +33,7 @@ You will get a username and password.
 - Run `filterDownloadLinksJpg.sh`
 - Run `wgetParallelProtected.sh downloadLinksJpgAd2at.txt <username> <password>`
 
-The repository structure should be as follows:
+The `AD2AT` repository structure should be as follows:
 
 ```
 .
@@ -56,14 +64,14 @@ The repository structure should be as follows:
 If you use the AD2AT data, please cite [1]:
 
 ```
-@inproceedings{lincker_ad2at_2025,
+@inproceedings{lincker2025ad2at,
  title={AD2AT: Audio Description to Alternative Text, a Dataset of Alternative Text from Movies},
  author={Lincker, Elise and Guinaudeau, Camille and Satoh, Shin'ichi},
- booktitle={Proceedings of the 31st International Conference on Multimedia Modeling(MMM)},
+ booktitle={International Conference on Multimedia Modeling},
  year={2025}}
 ```
 
-1. Lincker, E., Guinaudea, C., Satoh S.: AD2AT: Audio Description to Alternative Text, a Dataset of Alternative Text from Movies. In: Proceedings of the 31st International Conference on Multimedia Modeling (2025)
+1. Lincker, E., Guinaudeau, C., Satoh S.: AD2AT: Audio Description to Alternative Text, a Dataset of Alternative Text from Movies. In: International Conference on Multimedia Modeling (2025)
 2. Matamala, A., Villegas, M.: Building an audio description multilingual multimodal corpus: the VIW project. Multimodal Corpora: Computer vision and language processing (2016)
 3. Matamala, A.: The VIW project: Multimodal corpus linguistics for audio description analysis. Revista Española de Lingüística Aplicada/Spanish Journal of Applied Linguistics (2019)
 4. Rohrbach, A., Rohrbach, M., Tandon, N., Schiele, B.: A dataset for movie description. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2015)
