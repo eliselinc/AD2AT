@@ -1,631 +1,631 @@
-film_id,annotation_id,final_ad,anonymized_ad,final_frame,frame_id,text,scene_or_background,context
-0_Able-NZ,a1,"On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog sniffs the ground.","On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog sniffs the ground.",243.jpg,0,0,1,
-1_Bridge-US,a2,A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane. A male runner jogs past. The dog sniffs the sand.,A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane. A male runner jogs past. The dog sniffs the sand.,243.jpg,0,0,1,A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
-2_BTI-UK,a58,"In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog sniffs at something on the sand.","In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog sniffs at something on the sand.",243.jpg,0,0,1,
-3_Deluxe-UK,a1,A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.,A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.,243.jpg,0,0,1,
-4_Ericsson-AU,a4698,"A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which sniffs at something in the sand.","A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which sniffs at something in the sand.",243.jpg,0,0,1,
-5_Ericsson-UK,a1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.","Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.",243.jpg,0,0,1,
-6_Mennell-CA,a1,It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.,It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.,243.jpg,0,0,1,
-7_MindsEye-UK,a1,A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog sniffs the sand.,A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog sniffs the sand.,243.jpg,0,0,1,
-8_SDI-UK,a1,A photo in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past.,A photo in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past.,243.jpg,0,0,1,
-9_ADAssociates-US,a1,"Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.","Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.",243.jpg,0,0,1,
-0_Able-NZ,a2,"Black text on a white background, reading: 'What happens while', followed by a long black line.","Black text on a white background, reading: 'What happens while', followed by a long black line.",472.jpg,1,1,1,"On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog pauses to sniff the ground and trots onwards."
-1_Bridge-US,a3,"Words: What Happens While… with a long, blank line at the end.","Words: What Happens While… with a long, blank line at the end.",472.jpg,1,1,1,"A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
+"film_id","annotation_id","final_ad","anonymized_ad","final_frame","frame_id","text","scene_or_background","context"
+"0_Able-NZ","a1","On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog sniffs the ground.","On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog sniffs the ground.","243.jpg",0,0,1,
+"1_Bridge-US","a1","A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane. A male runner jogs past. The dog sniffs the sand.","A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane. A male runner jogs past. The dog sniffs the sand.","243.jpg",0,0,1,
+"2_BTI-UK","a58","In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog sniffs at something on the sand.","In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog sniffs at something on the sand.","243.jpg",0,0,1,
+"3_Deluxe-UK","a1","A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.","A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.","243.jpg",0,0,1,
+"4_Ericsson-AU","a4698","A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which sniffs at something in the sand.","A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which sniffs at something in the sand.","243.jpg",0,0,1,
+"5_Ericsson-UK","a1","Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.","Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.","243.jpg",0,0,1,
+"6_Mennell-CA","a1","It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.","It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.","243.jpg",0,0,1,
+"7_MindsEye-UK","a1","A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog sniffs the sand.","A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog sniffs the sand.","243.jpg",0,0,1,
+"8_SDI-UK","a1","A photo in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past.","A photo in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past.","243.jpg",0,0,1,
+"9_ADAssociates-US","a1","Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.","Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.","243.jpg",0,0,1,
+"0_Able-NZ","a2","Black text on a white background, reading: 'What happens while', followed by a long black line.","Black text on a white background, reading: 'What happens while', followed by a long black line.","472.jpg",1,1,1,"On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog pauses to sniff the ground and trots onwards."
+"1_Bridge-US","a3","Words: What Happens While… with a long, blank line at the end.","Words: What Happens While… with a long, blank line at the end.","472.jpg",1,1,1,"A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
 A male runner jogs past. The dog trots and sniffs the sand. It follows its owner along the coast."
-2_BTI-UK,a59,"Words in black letters on a white background. what happens while, followed by a long black line.","Words in black letters on a white background. what happens while, followed by a long black line.",472.jpg,1,1,1,"In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog stops to sniff at something on the sand."
-3_Deluxe-UK,a2,What happens while. The title ends with just a line.,What happens while. The title ends with just a line.,472.jpg,1,1,1,A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
-4_Ericsson-AU,a4699,A title. What Happens While…,A title. What Happens While…,472.jpg,1,1,1,"A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which stops to sniff at something in the sand before trotting onwards."
-5_Ericsson-UK,a2,What happens while.,What happens while.,472.jpg,1,1,1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction."
-6_Mennell-CA,a2,A title reads: What happens while BLANK.,A title reads: What happens while BLANK.,472.jpg,1,1,1,It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.
-7_MindsEye-UK,a2,Caption: What happens while – blank.,Caption: What happens while – blank.,472.jpg,1,1,1,A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them.
-8_SDI-UK,a2,On a white background: What Happens While.,On a white background: What Happens While.,472.jpg,1,1,1,A film shot mostly in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past.
-9_ADAssociates-US,a2,A title: What happens While,A title: What happens While,472.jpg,1,1,1,"Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog."
-1_Bridge-US,a76,"A title: What Happens While... with a long, blank line at the end.","A title: What Happens While... with a long, blank line at the end.",472.jpg,1,1,1,"She gazes up. No! What are you talking about? Of course yes, our luggage is ready…
+"2_BTI-UK","a59","Words in black letters on a white background. what happens while, followed by a long black line.","Words in black letters on a white background. what happens while, followed by a long black line.","472.jpg",1,1,1,"In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog stops to sniff at something on the sand."
+"3_Deluxe-UK","a2","What happens while. The title ends with just a line.","What happens while. The title ends with just a line.","472.jpg",1,1,1,"A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds."
+"4_Ericsson-AU","a4699","A title. What Happens While…","A title. What Happens While…","472.jpg",1,1,1,"A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which stops to sniff at something in the sand before trotting onwards."
+"5_Ericsson-UK","a2","What happens while.","What happens while.","472.jpg",1,1,1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction."
+"6_Mennell-CA","a2","A title reads: What happens while BLANK.","A title reads: What happens while BLANK.","472.jpg",1,1,1,"It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant."
+"7_MindsEye-UK","a2","Caption: What happens while – blank.","Caption: What happens while – blank.","472.jpg",1,1,1,"A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them."
+"8_SDI-UK","a2","On a white background: What Happens While.","On a white background: What Happens While.","472.jpg",1,1,1,"A film shot mostly in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past."
+"9_ADAssociates-US","a2","A title: What happens While","A title: What happens While","472.jpg",1,1,1,"Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog."
+"1_Bridge-US","a76","A title: What Happens While... with a long, blank line at the end.","A title: What Happens While... with a long, blank line at the end.","472.jpg",1,1,1,"She gazes up. No! What are you talking about? Of course yes, our luggage is ready…
 The woman furrows her brow. She looks around again. Listen, I cannot talk right now. I have to leave you.
 Words appear: Zoé, the Next One."
-2_BTI-UK,a103,"The title, in black letters on a white background: what happens while, followed by a long black line.","The title, in black letters on a white background: what happens while, followed by a long black line.",472.jpg,1,1,1,"She looks up towards the sound.,
+"2_BTI-UK","a103","The title, in black letters on a white background: what happens while, followed by a long black line.","The title, in black letters on a white background: what happens while, followed by a long black line.","472.jpg",1,1,1,"She looks up towards the sound.,
 Listen, I can't talk right now, I have to leave you.
 In white capitals, Zoe, the next one,"
-4_Ericsson-AU,a4732,'What Happens While...','What Happens While...',472.jpg,1,1,1,"She jogs after the others, and James puts his arm around her as she walks between him and Rick back to the overgrown ridge at the edge of the clearing.
+"4_Ericsson-AU","a4732","'What Happens While...'","'What Happens While...'","472.jpg",1,1,1,"She jogs after the others, and James puts his arm around her as she walks between him and Rick back to the overgrown ridge at the edge of the clearing.
 Blackout, then a woman with black dreadlocks hanging washing on a rooftop. She says into her phone, ""No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready...""
 Looking about with a frown she says, ""Listen, I cannot talk right now. I have to leave you."" Onscreen: Zoe, the next one."
-6_Mennell-CA,a52,What happens while BLANK.,What happens while BLANK.,472.jpg,1,1,1,"'No!' she says, 'What are you talking about? Of course yes, our luggage is ready.'
+"6_Mennell-CA","a52","What happens while BLANK.","What happens while BLANK.","472.jpg",1,1,1,"'No!' she says, 'What are you talking about? Of course yes, our luggage is ready.'
 She looks for the sound, then says, 'Listen, I cannot talk right now. I have to leave you'.
 A title reads, 'Zoe, the next one.'"
-0_Able-NZ,a2616,A man in a suit and tie and talking on a cellphone parks his white BMW by the seaside.,A man in a suit and tie and talking on a cellphone parks his white BMW by the seaside.,687.jpg,2,0,1,"A jogger passes them in the opposite direction
+"0_Able-NZ","a2616","A man in a suit and tie and talking on a cellphone parks his white BMW by the seaside.","A man in a suit and tie and talking on a cellphone parks his white BMW by the seaside.","687.jpg",2,0,1,"A jogger passes them in the opposite direction
 The dog pauses to sniff the ground and trots onwards
 Black text on a white screen appears, reading: 'What happens while', followed by a long black line"
-1_Bridge-US,a5,"A slick, white car is parked on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.","A slick, white car parks on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.",687.jpg,2,0,1,"A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
+"1_Bridge-US","a5","A slick, white car is parked on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.","A slick, white car parks on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.","687.jpg",2,0,1,"A nearly-empty beach beside a sea. A couple wears jackets as they stroll with their large Great Dane.
 A male runner jogs past. The dog trots and sniffs the sand. It follows its owner along the coast.
 Words appear: What Happens While… with a long, blank line at the end."
-2_BTI-UK,a60,A white saloon is parked alongside the beach wall. The male driver is on his mobile. The man is in his mid 30's with a sandy beard.,A white saloon parks alongside the beach wall. The male driver is on his mobile. The man is in his mid 30's with a sandy beard.,687.jpg,2,0,1,"In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog stops to sniff at something on the sand.
+"2_BTI-UK","a60","A white saloon is parked alongside the beach wall. The male driver is on his mobile. The man is in his mid 30's with a sandy beard.","A white saloon parks alongside the beach wall. The male driver is on his mobile. The man is in his mid 30's with a sandy beard.","687.jpg",2,0,1,"In the distance, a couple walk their dog along an urban beach. They pass a jogger running in the opposite direction. The dog stops to sniff at something on the sand.
 Responding to the whistle, he pads after his owners.  Words in black letters on a white background. what happens while, followed by a long black line."
-3_Deluxe-UK,a2,A man parks a sleek white BMW on the road by the sea.,A man parks a sleek white BMW on the road by the sea.,687.jpg,2,0,1,A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
-4_Ericsson-AU,a4700,A bearded man in a suit parks his expensive car by the promenade while on the phone.,A bearded man in a suit parks his expensive car by the promenade while on the phone.,687.jpg,2,0,1,"A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which stops to sniff at something in the sand before trotting onwards.
+"3_Deluxe-UK","a2","A man parks a sleek white BMW on the road by the sea.","A man parks a sleek white BMW on the road by the sea.","687.jpg",2,0,1,"A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds."
+"4_Ericsson-AU","a4700","A bearded man in a suit parks his expensive car by the promenade while on the phone.","A bearded man in a suit parks his expensive car by the promenade while on the phone.","687.jpg",2,0,1,"A sandy promenade at the seaside in pale dawn light. A man in a tracksuit jogs past a couple with a large dog, which stops to sniff at something in the sand before trotting onwards.
 A title on screen. What Happens While..."
-5_Ericsson-UK,a3,A white saloon car is parked on the seafront and the driver is on his mobile phone.,A white saloon car is parked on the seafront and the driver is on his mobile phone.,687.jpg,2,0,1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
+"5_Ericsson-UK","a3","A white saloon car is parked on the seafront and the driver is on his mobile phone.","A white saloon car is parked on the seafront and the driver is on his mobile phone.","687.jpg",2,0,1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
 What happens while."
-7_MindsEye-UK,a3,"A car is parked by the beach, silver with sporty wheels. Inside the driver is on his mobile phone.","A car pulls up by the beach, silver with sporty wheels. Inside the driver is on his mobile phone.",687.jpg,2,0,1,"A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them.
+"7_MindsEye-UK","a3","A car is parked by the beach, silver with sporty wheels. Inside the driver is on his mobile phone.","A car pulls up by the beach, silver with sporty wheels. Inside the driver is on his mobile phone.","687.jpg",2,0,1,"A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them.
 Caption: What happens while – blank."
-8_SDI-UK,a3,"A BMW coupe is parked beside the beach and a forty-something guy is inside, speaking on his phone.","A BMW coupe is parked beside the beach and a forty-something guy is inside, speaking on his phone.",687.jpg,2,0,1,"A film shot mostly in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past.
+"8_SDI-UK","a3","A BMW coupe is parked beside the beach and a forty-something guy is inside, speaking on his phone.","A BMW coupe is parked beside the beach and a forty-something guy is inside, speaking on his phone.","687.jpg",2,0,1,"A film shot mostly in sombre greys with some colour highlights. Day. A couple stroll along a virtually deserted beach with a large dog lolloping behind them. A man jogs past.
 On a white background: What Happens While."
-1_Bridge-US,a6,A man wearing a business suits grabs items from the trunk.,A man wearing a business suits grabs items from the trunk.,1115.jpg,3,0,1,"Words appear: What Happens While… with a long, blank line at the end.
+"1_Bridge-US","a6","A man wearing a business suits grabs items from the trunk.","A man wearing a business suits grabs items from the trunk.","1115.jpg",3,0,1,"Words appear: What Happens While… with a long, blank line at the end.
 A slick, white car approaches, driving on the grey asphalt. The male driver sits alone inside and speaks on his cell phone.
 He looks aggressive as he bangs the steering wheel. He gets out. He wears a business suit."
-6_Mennell-CA,a4,He opens his trunk.,He opens his trunk.,1115.jpg,3,0,1,"It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.
+"6_Mennell-CA","a4","He opens his trunk.","He opens his trunk.","1115.jpg",3,0,1,"It's an early grey morning at an urban seaside. A couple dressed in warm clothes walk their great dane as a lone jogger rambles past. The sidewalk in the foreground that runs alongside a road is vacant.
 A title reads: What happens while BLANK.
 A white two-door coupe pulls up in front of the sidewalk. It's driven by a man in his forties who wears a business suit. Talking on his cell phone, he gets out holding a briefcase."
-7_MindsEye-UK,a4,He gets out his briefcase.,He gets out his briefcase.,1115.jpg,3,0,1,"A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them.
+"7_MindsEye-UK","a4","He gets out his briefcase.","He gets out his briefcase.","1115.jpg",3,0,1,"A beach under the pale sunshine. A couple walk by with a big black dog. A jogger runs the other way. The dog stops to sniff the sand. Its owner beckons the dog to come. It trots after them.
 Caption: What happens while – blank.
 A car pulls up by the beach, silver with sporty wheels. Inside the driver is on his mobile phone."
-9_ADAssociates-US,a3,"A man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of a white sedan.","A man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of a white sedan.",1115.jpg,3,0,1,"Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.
+"9_ADAssociates-US","a3","A man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of a white sedan.","A man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of a white sedan.","1115.jpg",3,0,1,"Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.
 A title: What happens While"
-5_Ericsson-UK,a4,He's around fifty and has a short trimmed beard.,He's around fifty and has a short trimmed beard.,1493.jpg,4,0,1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
+"5_Ericsson-UK","a4","He's around fifty and has a short trimmed beard.","He's around fifty and has a short trimmed beard.","1493.jpg",4,0,1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
 What happens while.
 A white saloon car pulls up on the seafront and the driver, who is having an animated conversation on his mobile phone, gets out."
-3_Deluxe-UK,a3,He's wearing a suit. He has short light brown hair and a beard.,He's wearing a suit. He has short light brown hair and a beard.,1493.jpg,4,0,1,"A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
+"3_Deluxe-UK","a3","He's wearing a suit. He has short light brown hair and a beard.","He's wearing a suit. He has short light brown hair and a beard.","1493.jpg",4,0,1,"A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
 What happens while. The title ends with just a line. A man parks a sleek white BMW on the road by the sea. Talking on his mobile phone he gets out of the car and opens the boot."
-7_MindsEye-UK,a7,He has ginger hair and a beard.,He has ginger hair and a beard.,1493.jpg,4,0,1,"He undoes his seat belt. Opens the door. Gets out with his briefcase.
+"7_MindsEye-UK","a7","He has ginger hair and a beard.","He has ginger hair and a beard.","1493.jpg",4,0,1,"He undoes his seat belt. Opens the door. Gets out with his briefcase.
 He puts his case in the boot, gets out a striped bag.
 He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath."
-9_ADAssociates-US,a4,"A man with a trim, reddish-brown beard, wearing a dark suit, his tie loose at the collar.","A man with a trim, reddish-brown beard, wearing a dark suit, his tie loose at the collar.",1493.jpg,4,0,1,"Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.
+"9_ADAssociates-US","a4","A man with a trim, reddish-brown beard, wearing a dark suit, his tie loose at the collar.","A man with a trim, reddish-brown beard, wearing a dark suit, his tie loose at the collar.","1493.jpg",4,0,1,"Under a partly-cloudy sky, a wide and sandy beachfront and parking area. A jogger runs from the right, while at left a couple walks a large dog.
 A title: What happens While
 Emerging from a white sedan, a man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of the car."
-0_Able-NZ,a4,"White text reads: James, The businessman. ","White text reads: James, The businessman. ",1684.jpg,5,1,0,"On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog pauses to sniff the ground and trots onwards.
+"0_Able-NZ","a4","White text reads: James, The businessman. ","White text reads: James, The businessman. ","1684.jpg",5,1,0,"On an overcast day, a man and a woman walk by the seaside with a large, lanky dog. A jogger passes them in the opposite direction. The dog pauses to sniff the ground and trots onwards.
 Black text on a white screen appears, reading: 'What happens while', followed by a long black line. A man in a suit and tie and talking on a cellphone pulls up by the seaside in a white BMW.
 Pocketing his cellphone, the bearded man chucks his briefcase in the boot of his car and dons a pair of aviator sunglasses."
-1_Bridge-US,a9,"Words: James, the Businessman","Words: James, the Businessman",1684.jpg,5,1,0,"He mutters and stares disdainfully at the phone as he hangs up.
+"1_Bridge-US","a9","Words: James, the Businessman","Words: James, the Businessman","1684.jpg",5,1,0,"He mutters and stares disdainfully at the phone as he hangs up.
 His pale skin looks cool and soft in the muted sunlight.
 He puts on dark aviator, sunglasses."
-2_BTI-UK,a63,"In white letters, JAMES,the business man.","In white letters, JAMES,the business man.",1684.jpg,5,1,0,"A white saloon pulls up alongside the beach wall. The male driver is on his mobile.
+"2_BTI-UK","a63","In white letters, JAMES,the business man.","In white letters, JAMES,the business man.","1684.jpg",5,1,0,"A white saloon pulls up alongside the beach wall. The male driver is on his mobile.
 The man in his mid 30's with a sandy beard, sighs with annoyance.
 Wearing a work suit, his tie loosened at the collar, he puts on a pair of sunglasses."
-3_Deluxe-UK,a4,James: The businessman.,James: The businessman.,1684.jpg,5,1,0,"A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
+"3_Deluxe-UK","a4","James: The businessman.","James: The businessman.","1684.jpg",5,1,0,"A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
 What happens while. The title ends with just a line. A man parks a sleek white BMW on the road by the sea. Talking on his mobile phone he gets out of the car and opens the boot.
 The man put a brief case in the boot of the car and took out a stripy cotton bag. He's wearing a suit. He has short light brown hair and a beard. He puts on a pair of aviator style sunglasses."
-4_Ericsson-AU,a4702,James - the businessman.,James - the businessman.,1684.jpg,5,1,0,"A title on screen. What Happens While...
+"4_Ericsson-AU","a4702","James - the businessman.","James - the businessman.","1684.jpg",5,1,0,"A title on screen. What Happens While...
 A bearded man in a suit parks his expensive car by the promenade and gets out while on the phone.
 Putting his phone away, he takes his sunglasses from his chest pocket and sighs wearily as he puts them on."
-5_Ericsson-UK,a4,James - the businessman.,James - the businessman.,1684.jpg,5,1,0,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
+"5_Ericsson-UK","a4","James - the businessman.","James - the businessman.","1684.jpg",5,1,0,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
 What happens while.
 A white saloon car pulls up on the seafront and the driver, who is having an animated conversation on his mobile phone, gets out."
-6_Mennell-CA,a7,A title reads: James. The Businessman.,A title reads: James. The Businessman.,1684.jpg,5,1,0,"He opens his trunk.
+"6_Mennell-CA","a7","A title reads: James. The Businessman.","A title reads: James. The Businessman.","1684.jpg",5,1,0,"He opens his trunk.
 Hanging up, he looks towards the sea.
 He dons aviator sunglasses and his shoulders relax."
-7_MindsEye-UK,a39,"Caption: James, the businessman.","Caption: James, the businessman.",1684.jpg,5,1,0,"He puts his case in the boot, gets out a striped bag.
+"7_MindsEye-UK","a39","Caption: James, the businessman.","Caption: James, the businessman.","1684.jpg",5,1,0,"He puts his case in the boot, gets out a striped bag.
 He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath.
 Puts on his sunglasses. He has ginger hair and a beard."
-8_SDI-UK,a6,James. The businessman.,James. The businessman.,1684.jpg,5,1,0,"A BMW coupe pulls up beside the beach and a forty-something guy gets out, speaking on his phone.
+"8_SDI-UK","a6","James. The businessman.","James. The businessman.","1684.jpg",5,1,0,"A BMW coupe pulls up beside the beach and a forty-something guy gets out, speaking on his phone.
 He ends the call, then reaches into in his inside jacket pocket.
 He takes out sunglasses and puts them on."
-9_ADAssociates-US,a6,"A title: James, The Businessman.","A title: James, The Businessman.",1684.jpg,5,1,0,"Emerging from a white sedan, a man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of the car.
+"9_ADAssociates-US","a6","A title: James, The Businessman.","A title: James, The Businessman.","1684.jpg",5,1,0,"Emerging from a white sedan, a man with a trim, reddish-brown beard holds a phone to his ear and pulls a briefcase out of the car.
 Wearing a dark suit, his tie loose at the collar, he exchanges his briefcase for a striped cloth bag from the trunk.
 He glances toward the beach, pulls sunglasses from his coat’s vest pocket, and puts them on."
-1_Bridge-US,a10,He walks along the nearly empty beach carrying a beach bag. He makes a call.,He walks along the nearly empty beach carrying a beach bag. He makes a call.,1854.jpg,6,0,1,"His pale skin looks cool and soft in the muted sunlight.
+"1_Bridge-US","a10","He walks along the nearly empty beach carrying a beach bag. He makes a call.","He walks along the nearly empty beach carrying a beach bag. He makes a call.","1854.jpg",6,0,1,"His pale skin looks cool and soft in the muted sunlight.
 He puts on dark aviator, sunglasses.
 Words appear: James, the Businessman"
-2_BTI-UK,a63,James walks along the promenade with a beach bag over his shoulder.,Someone walks along the promenade with a beach bag over his shoulder.,1854.jpg,6,0,1,"A white saloon pulls up alongside the beach wall. The male driver is on his mobile.
+"2_BTI-UK","a63","James walks along the promenade with a beach bag over his shoulder.","Someone walks along the promenade with a beach bag over his shoulder.","1854.jpg",6,0,1,"A white saloon pulls up alongside the beach wall. The male driver is on his mobile.
 The man in his mid 30's with a sandy beard, sighs with annoyance.
 Wearing a work suit, his tie loosened at the collar, he puts on a pair of sunglasses."
-3_Deluxe-UK,a4,He walks along with the bag on his shoulder and makes a phone call.,He walks along with the bag on his shoulder and makes a phone call.,1854.jpg,6,0,1,"A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
+"3_Deluxe-UK","a4","He walks along with the bag on his shoulder and makes a phone call.","He walks along with the bag on his shoulder and makes a phone call.","1854.jpg",6,0,1,"A road running along by the sea. A couple walk their dog on the flat beach and a jogger runs past. The sky above is pale and dappled with light grey clouds.
 What happens while. The title ends with just a line. A man parks a sleek white BMW on the road by the sea. Talking on his mobile phone he gets out of the car and opens the boot.
 The man put a brief case in the boot of the car and took out a stripy cotton bag. He's wearing a suit. He has short light brown hair and a beard. He puts on a pair of aviator style sunglasses."
-4_Ericsson-AU,a4702,He's carrying a stripy beach bag.,He's carrying a stripy beach bag.,1854.jpg,6,0,1,"A title on screen. What Happens While...
+"4_Ericsson-AU","a4702","He's carrying a stripy beach bag.","He's carrying a stripy beach bag.","1854.jpg",6,0,1,"A title on screen. What Happens While...
 A bearded man in a suit parks his expensive car by the promenade and gets out while on the phone.
 Putting his phone away, he takes his sunglasses from his chest pocket and sighs wearily as he puts them on."
-5_Ericsson-UK,a4,He's walking along the promenade with a striped bag slung over his shoulder.,He's walking along the promenade with a striped bag slung over his shoulder.,1854.jpg,6,0,1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
+"5_Ericsson-UK","a4","He's walking along the promenade with a striped bag slung over his shoulder.","He's walking along the promenade with a striped bag slung over his shoulder.","1854.jpg",6,0,1,"Daytime. A pale grey seafront. A couple walk their dog along a sandy promenade, passing a jogger going in the opposite direction.
 What happens while.
 A white saloon car pulls up on the seafront and the driver, who is having an animated conversation on his mobile phone, gets out."
-6_Mennell-CA,a8,He strolls with a beach bag as he makes a call.,He strolls with a beach bag as he makes a call.,1854.jpg,6,0,1,"Hanging up, he looks towards the sea.
+"6_Mennell-CA","a8","He strolls with a beach bag as he makes a call.","He strolls with a beach bag as he makes a call.","1854.jpg",6,0,1,"Hanging up, he looks towards the sea.
 He dons aviator sunglasses and his shoulders relax.
 A title reads: James. The Businessman."
-7_MindsEye-UK,a39,"James walks near the beach, talking on his phone","Someone walks near the beach, talking on his phone",1854.jpg,6,0,1,"He puts his case in the boot, gets out a striped bag.
+"7_MindsEye-UK","a39","James walks near the beach, talking on his phone","Someone walks near the beach, talking on his phone","1854.jpg",6,0,1,"He puts his case in the boot, gets out a striped bag.
 He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath.
 Puts on his sunglasses. He has ginger hair and a beard."
-8_SDI-UK,a6,"Wearing a suit and carrying a beach bag, James makes a call as he walks.","Wearing a suit and carrying a beach bag, Someone makes a call as he walks.",1854.jpg,6,0,1,"A BMW coupe pulls up beside the beach and a forty-something guy gets out, speaking on his phone.
+"8_SDI-UK","a6","Wearing a suit and carrying a beach bag, James makes a call as he walks.","Wearing a suit and carrying a beach bag, Someone makes a call as he walks.","1854.jpg",6,0,1,"A BMW coupe pulls up beside the beach and a forty-something guy gets out, speaking on his phone.
 He ends the call, then reaches into in his inside jacket pocket.
 He takes out sunglasses and puts them on."
-0_Able-NZ,a5,A shirtless James lies back on his beach towel on the sand.,A shirtless Someone lies back on his beach towel on the sand.,2675.jpg,7,0,1,"Black text on a white screen appears, reading: 'What happens while', followed by a long black line. A man in a suit and tie and talking on a cellphone pulls up by the seaside in a white BMW.
+"0_Able-NZ","a5","A shirtless James lies back on his beach towel on the sand.","A shirtless Someone lies back on his beach towel on the sand.","2675.jpg",7,0,1,"Black text on a white screen appears, reading: 'What happens while', followed by a long black line. A man in a suit and tie and talking on a cellphone pulls up by the seaside in a white BMW.
 Pocketing his cellphone, the bearded man chucks his briefcase in the boot of his car and dons a pair of aviator sunglasses.
 White text reads: James, The businessman. Later, James makes another call."
-1_Bridge-US,a11,"James lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.","Someone lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.",2675.jpg,7,0,1,"He puts on dark aviator, sunglasses.
+"1_Bridge-US","a11","James lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.","Someone lies back, bare-chested, on a towel in the sand. His brownish, stubbly beard and chest hair almost match the ground.","2675.jpg",7,0,1,"He puts on dark aviator, sunglasses.
 Words appear: James, the Businessman
 He walks along the nearly empty beach carrying a beach bag. He makes a call."
-2_BTI-UK,a64,"Having taken off his suit, James lies back on a thin towel on the sand.","Having taken off his suit, Someone lies back on a thin towel on the sand.",2675.jpg,7,0,1,"The man in his mid 30's with a sandy beard, sighs with annoyance.
+"2_BTI-UK","a64","Having taken off his suit, James lies back on a thin towel on the sand.","Having taken off his suit, Someone lies back on a thin towel on the sand.","2675.jpg",7,0,1,"The man in his mid 30's with a sandy beard, sighs with annoyance.
 Wearing a work suit, his tie loosened at the collar, he puts on a pair of sunglasses.
 In white letters, JAMES,the business man. James walks along the promenade with a beach bag over his shoulder."
-3_Deluxe-UK,a5,James lies down on a towel on the sandy beach.,Someone lies down on a towel on the sandy beach.,2675.jpg,7,0,1,"What happens while. The title ends with just a line. A man parks a sleek white BMW on the road by the sea. Talking on his mobile phone he gets out of the car and opens the boot.
+"3_Deluxe-UK","a5","James lies down on a towel on the sandy beach.","Someone lies down on a towel on the sandy beach.","2675.jpg",7,0,1,"What happens while. The title ends with just a line. A man parks a sleek white BMW on the road by the sea. Talking on his mobile phone he gets out of the car and opens the boot.
 The man put a brief case in the boot of the car and took out a stripy cotton bag. He's wearing a suit. He has short light brown hair and a beard. He puts on a pair of aviator style sunglasses.
 James: The businessman. He walks along with the bag on his shoulder and makes a phone call."
-4_Ericsson-AU,a4703,"Bare-chested down on the beach, he flops onto a towel.","Bare-chested down on the beach, he flops onto a towel.",2675.jpg,7,0,1,"A bearded man in a suit parks his expensive car by the promenade and gets out while on the phone.
+"4_Ericsson-AU","a4703","Bare-chested down on the beach, he flops onto a towel.","Bare-chested down on the beach, he flops onto a towel.","2675.jpg",7,0,1,"A bearded man in a suit parks his expensive car by the promenade and gets out while on the phone.
 Putting his phone away, he takes his sunglasses from his chest pocket and sighs wearily as he puts them on.
 Onscreen. James - the businessman. He's carrying a stripy beach bag."
-5_Ericsson-UK,a5,"James, who is bare chested, lies down on his back on a towel spread out on the beach.","Someone, who is bare chested, lies down on his back on a towel spread out on the beach.",2675.jpg,7,0,1,"What happens while.
+"5_Ericsson-UK","a5","James, who is bare chested, lies down on his back on a towel spread out on the beach.","Someone, who is bare chested, lies down on his back on a towel spread out on the beach.","2675.jpg",7,0,1,"What happens while.
 A white saloon car pulls up on the seafront and the driver, who is having an animated conversation on his mobile phone, gets out.
 The man looks exasperated then reaches into his inside jacket pocket and pulls out a pair of sunglasses, which he puts on. He's around fifty and has a short trimmed beard. James - the businessman. Now, he's walking along the promenade with a striped bag slung over his shoulder."
-6_Mennell-CA,a10,James lies back with his shirt off.,Someone lies back with his shirt off.,2675.jpg,7,0,1,"A title reads: James. The Businessman.
+"6_Mennell-CA","a10","James lies back with his shirt off.","Someone lies back with his shirt off.","2675.jpg",7,0,1,"A title reads: James. The Businessman.
 Moments later he strolls with a beach bag as he makes a call.
 Still later his suit is balled up beside a towel laid out on the sand.  01:34.17"
-7_MindsEye-UK,a8,"James lies back on the beach, barechested.","Someone lies back on the beach, barechested.",2675.jpg,7,0,1,"He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath.
+"7_MindsEye-UK","a8","James lies back on the beach, barechested.","Someone lies back on the beach, barechested.","2675.jpg",7,0,1,"He ends the call. Puts his phone away. Looks out towards the sea.  Takes a deep breath.
 Puts on his sunglasses. He has ginger hair and a beard.
 Caption: James, the businessman. James walks near the beach, talking on his phone"
-8_SDI-UK,a7,"Bare chested, James lies back on a towel on the beach.","Bare chested, Someone lies back on a towel on the beach.",2675.jpg,7,0,1,"He ends the call, then reaches into in his inside jacket pocket.
+"8_SDI-UK","a7","Bare chested, James lies back on a towel on the beach.","Bare chested, Someone lies back on a towel on the beach.","2675.jpg",7,0,1,"He ends the call, then reaches into in his inside jacket pocket.
 He takes out sunglasses and puts them on.
 James. The businessman. Wearing a suit and carrying a beach bag, James makes a call as he walks."
-9_ADAssociates-US,a7,"A piece of clothing and a towel lie in the sand. James lies back, naked from the waist up.","A piece of clothing and a towel lie in the sand. Someone lies back, naked from the waist up.",2675.jpg,7,0,1,"Wearing a dark suit, his tie loose at the collar, he exchanges his briefcase for a striped cloth bag from the trunk.
+"9_ADAssociates-US","a7","A piece of clothing and a towel lie in the sand. James lies back, naked from the waist up.","A piece of clothing and a towel lie in the sand. Someone lies back, naked from the waist up.","2675.jpg",7,0,1,"Wearing a dark suit, his tie loose at the collar, he exchanges his briefcase for a striped cloth bag from the trunk.
 He glances toward the beach, pulls sunglasses from his coat’s vest pocket, and puts them on.
 A title: James, The Businessman. Now, looking at his phone, he steps along the beachfront."
-1_Bridge-US,a18,He walks along the water's edge. A city's skyscrapers rise in the distant coast.,He walks along the water's edge. A city's skyscrapers rise in the distant coast.,4087.jpg,8,0,1,"He looks left...and right.
+"1_Bridge-US","a18","He walks along the water's edge. A city's skyscrapers rise in the distant coast.","He walks along the water's edge. A city's skyscrapers rise in the distant coast.","4087.jpg",8,0,1,"He looks left...and right.
 He looks at the sand around him.
 James gazes around, looking confused. He stands up, wearing his boxer shorts on the secluded beach."
-2_BTI-UK,a69,"He walks along the sand in his trunks. In the distance, the city of Barcelona is a hazy outline.","He walks along the sand in his trunks. In the distance, the city of Barcelona is a hazy outline.",4087.jpg,8,0,1,"He lets the sand trickle through his fingers.
+"2_BTI-UK","a69","He walks along the sand in his trunks. In the distance, the city of Barcelona is a hazy outline.","He walks along the sand in his trunks. In the distance, the city of Barcelona is a hazy outline.","4087.jpg",8,0,1,"He lets the sand trickle through his fingers.
 He sits up to answer the phone.
 He looks round for the source of the sound."
-3_Deluxe-UK,a9,He walks along the sand as waves gently roll in. The coast curves round in the distance with industrial buildings running along it.,He walks along the sand as waves gently roll in. The coast curves round in the distance with industrial buildings running along it.,4087.jpg,8,0,1,"He relaxes, rubs his eyes and lets his arms flop out to his sides. He gently caresses the sand with his fingers.
+"3_Deluxe-UK","a9","He walks along the sand as waves gently roll in. The coast curves round in the distance with industrial buildings running along it.","He walks along the sand as waves gently roll in. The coast curves round in the distance with industrial buildings running along it.","4087.jpg",8,0,1,"He relaxes, rubs his eyes and lets his arms flop out to his sides. He gently caresses the sand with his fingers.
 He sits up and answers his phone.
 He looks around frowning"
-4_Ericsson-AU,a4706,"He walks along the seashore in his swimming trunks. Behind him, city buildings across the water blur against the hazy horizon.","He walks along the seashore in his swimming trunks. Behind him, city buildings across the water blur against the hazy horizon.",4087.jpg,8,0,1,"Bare-chested down on the beach, he flops onto a towel.
+"4_Ericsson-AU","a4706","He walks along the seashore in his swimming trunks. Behind him, city buildings across the water blur against the hazy horizon.","He walks along the seashore in his swimming trunks. Behind him, city buildings across the water blur against the hazy horizon.","4087.jpg",8,0,1,"Bare-chested down on the beach, he flops onto a towel.
 Closing his eyes, he rubs his face wearily, then runs his left hand over the sand, letting some of it trickle through his fingers.
 He looks around in confusion."
-6_Mennell-CA,a14,"He walks along the water in his black boxer briefs. On the opposite side of the bay, a smokestack looms over a city blurred by the haze.","He walks along the water in his black boxer briefs. On the opposite side of the bay, a smokestack looms over a city blurred by the haze.",4087.jpg,8,0,1,"He sits up.
+"6_Mennell-CA","a14","He walks along the water in his black boxer briefs. On the opposite side of the bay, a smokestack looms over a city blurred by the haze.","He walks along the water in his black boxer briefs. On the opposite side of the bay, a smokestack looms over a city blurred by the haze.","4087.jpg",8,0,1,"He sits up.
 He glances over his shoulders.
 Then he searches the ground around him."
-8_SDI-UK,a12,"Wearing dark-coloured swimming trunks, James walks along the water's edge. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.","Wearing dark-coloured swimming trunks, Someone walks along the water's edge. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.",4087.jpg,8,0,1,"He sits up.
+"8_SDI-UK","a12","Wearing dark-coloured swimming trunks, James walks along the water's edge. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.","Wearing dark-coloured swimming trunks, Someone walks along the water's edge. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.","4087.jpg",8,0,1,"He sits up.
 He scans about.
 He throws down his phone and gets up."
-0_Able-NZ,a12,"Fully clothed, James marches down a street lined with leafy trees.","Fully clothed, Someone marches down a street lined with leafy trees.",5504.jpg,9,0,1,"James hangs up, then with his brow furrowed, he stands, wearing only his boxer briefs, on the seemingly deserted beach.
+"0_Able-NZ","a12","Fully clothed, James marches down a street lined with leafy trees.","Fully clothed, Someone marches down a street lined with leafy trees.","5504.jpg",9,0,1,"James hangs up, then with his brow furrowed, he stands, wearing only his boxer briefs, on the seemingly deserted beach.
 He walks near the calm water's edge, scanning the horizon.
 Looking pertured, James continues looking away from the water, his eyes darting. He ambles back to his pile of clothes and puts on his grey business shirt."
-1_Bridge-US,a26,"James wears his suit and walks under large, leafy trees. His unsmiling, serious face stares forward.","Someone wears his suit and walks under large, leafy trees. His unsmiling, serious face stares forward.",5504.jpg,9,0,1,"He wanders closer to the waves along the shore. James looks puzzled, and peers around the beach.
+"1_Bridge-US","a26","James wears his suit and walks under large, leafy trees. His unsmiling, serious face stares forward.","Someone wears his suit and walks under large, leafy trees. His unsmiling, serious face stares forward.","5504.jpg",9,0,1,"He wanders closer to the waves along the shore. James looks puzzled, and peers around the beach.
 The sky is hazy-white, without distinguishable clouds or sun. James walks away from the water, scanning around with his eyes, as if trying to locate the mysterious sound.
 Standing at his towel in the sand, he grabs his shirt and begins to put it on. He furrows his brow, looking inquisitively at the air."
-2_BTI-UK,a73,"With his suit on, but no tie, he walks under a canopy of trees looking puzzled.","With his suit on, but no tie, he walks under a canopy of trees looking puzzled.",5504.jpg,9,0,1,"He looks towards the top of the beach and then turns to face the sea, puzzled by the high pitched whine.
+"2_BTI-UK","a73","With his suit on, but no tie, he walks under a canopy of trees looking puzzled.","With his suit on, but no tie, he walks under a canopy of trees looking puzzled.","5504.jpg",9,0,1,"He looks towards the top of the beach and then turns to face the sea, puzzled by the high pitched whine.
 He walks down to the edge of the water, then turns back up the beach to where he left his clothes,
 He puts on his blue shirt, his eyes scouring the sky for the source of the sound."
-3_Deluxe-UK,a12,Fully dressed in his suit and with his shirt open James walks along by some trees.,Fully dressed in his suit and with his shirt open Someone walks along by some trees.,5504.jpg,9,0,1,"James hangs up and tosses his phone aside. He's a craggy faced man in his late forties with a slight paunch. He stands up and walks along the sand as waves gently roll in. The coast curves round in the distance with industrial buildings running along it. James stops walking and turns in the other direction. As the strange sound begins again he stops and looks around.
+"3_Deluxe-UK","a12","Fully dressed in his suit and with his shirt open James walks along by some trees.","Fully dressed in his suit and with his shirt open Someone walks along by some trees.","5504.jpg",9,0,1,"James hangs up and tosses his phone aside. He's a craggy faced man in his late forties with a slight paunch. He stands up and walks along the sand as waves gently roll in. The coast curves round in the distance with industrial buildings running along it. James stops walking and turns in the other direction. As the strange sound begins again he stops and looks around.
 Heavy browed James frowns and steps towards the water's edge, he continues to look around as he walks along the sand.
 James goes back to his things. He picks up his shirt and puts it on."
-5_Ericsson-UK,a10,He is fully dressed and walking along a pavement with trees arcing over it.,He is fully dressed and walking along a pavement with trees arcing over it.,5504.jpg,9,0,1,"He walks away from the shore, but as the sound seems to die out, he turns to head back to his towel and belongings, his suit lying in a crumpled heap.
+"5_Ericsson-UK","a10","He is fully dressed and walking along a pavement with trees arcing over it.","He is fully dressed and walking along a pavement with trees arcing over it.","5504.jpg",9,0,1,"He walks away from the shore, but as the sound seems to die out, he turns to head back to his towel and belongings, his suit lying in a crumpled heap.
 When the volume of the sound increases he looks about, perturbed by the strange trilling.
 He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on."
-6_Mennell-CA,a19,"With his suit jacket open, he strolls beneath tall trees.","With his suit jacket open, he strolls beneath tall trees.",5504.jpg,9,0,1,"He pauses then looks searchingly in the direction of the city as he ambles back to the water.
+"6_Mennell-CA","a19","With his suit jacket open, he strolls beneath tall trees.","With his suit jacket open, he strolls beneath tall trees.","5504.jpg",9,0,1,"He pauses then looks searchingly in the direction of the city as he ambles back to the water.
 Then he makes his way to his clothes, still scanning the landscape around him in search of the source of the sound.
 He pulls on his light blue button down shirt."
-7_MindsEye-UK,a15,"He walks along a path, in his suit and shirt.","He walks along a path, in his suit and shirt.",5504.jpg,9,0,1,"He heads towards the water.
+"7_MindsEye-UK","a15","He walks along a path, in his suit and shirt.","He walks along a path, in his suit and shirt.","5504.jpg",9,0,1,"He heads towards the water.
 He turns.  He has pale skin, greying hairs on his chest.
 He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on."
-8_SDI-UK,a16,"Dressed, but minus his tie, James walks past leafy trees.","Dressed, but minus his tie, Someone walks past leafy trees.",5504.jpg,9,0,1,"He walks through the soft sand, stops and scans about, then returns to the water's edge.
+"8_SDI-UK","a16","Dressed, but minus his tie, James walks past leafy trees.","Dressed, but minus his tie, Someone walks past leafy trees.","5504.jpg",9,0,1,"He walks through the soft sand, stops and scans about, then returns to the water's edge.
 Looking perplexed by the sound, he checks about him. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.
 James' brow is furrowed as he walks back to his belongings on the beach and puts on his shirt. Two small boats bob about in the water behind him."
-9_ADAssociates-US,a13,"In his suit but without the tie, James strolls a tree-lined walkway.","In his suit but without the tie, Someone strolls a tree-lined walkway.",5504.jpg,9,0,1,"James stands, and wearing gray swim trunks, strolls toward the water but turns away and trudges on the sand several paces. Finally, he turns back.
+"9_ADAssociates-US","a13","In his suit but without the tie, James strolls a tree-lined walkway.","In his suit but without the tie, Someone strolls a tree-lined walkway.","5504.jpg",9,0,1,"James stands, and wearing gray swim trunks, strolls toward the water but turns away and trudges on the sand several paces. Finally, he turns back.
 He looks to both sides then moves on.
 He dons his shirt."
-0_Able-NZ,a13,"He makes his way up a steep, craggy slope with dry vegetation.","He makes his way up a steep, craggy slope with dry vegetation.",5830.jpg,10,0,1,"He walks near the calm water's edge, scanning the horizon.
+"0_Able-NZ","a13","He makes his way up a steep, craggy slope with dry vegetation.","He makes his way up a steep, craggy slope with dry vegetation.","5830.jpg",10,0,1,"He walks near the calm water's edge, scanning the horizon.
 Looking pertured, James continues looking away from the water, his eyes darting. He ambles back to his pile of clothes and puts on his grey business shirt.
 Later, now fully clothed, James marches down a street lined with leafy trees."
-1_Bridge-US,a28,"James climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.","Someone climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.",5830.jpg,10,0,1,"Standing at his towel in the sand, he grabs his shirt and begins to put it on. He furrows his brow, looking inquisitively at the air.
+"1_Bridge-US","a28","James climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.","Someone climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.","5830.jpg",10,0,1,"Standing at his towel in the sand, he grabs his shirt and begins to put it on. He furrows his brow, looking inquisitively at the air.
 Now, James wears his suit and walks under large, leafy trees.
 His unsmiling, serious face stares forward."
-2_BTI-UK,a74,He clambers up a sandy pathway to the top of a steep rocky slope,He clambers up a sandy pathway to the top of a steep rocky slope,5830.jpg,10,0,1,"He walks down to the edge of the water, then turns back up the beach to where he left his clothes,
+"2_BTI-UK","a74","He clambers up a sandy pathway to the top of a steep rocky slope","He clambers up a sandy pathway to the top of a steep rocky slope","5830.jpg",10,0,1,"He walks down to the edge of the water, then turns back up the beach to where he left his clothes,
 He puts on his blue shirt, his eyes scouring the sky for the source of the sound.
 With his suit back on, but no tie, he walks under a canopy of trees still looking puzzled."
-4_Ericsson-AU,a4710,"Dressed in his suit, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.","Dressed in his suit, Someone strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.",5830.jpg,10,0,1,"James turns back towards his towel.
+"4_Ericsson-AU","a4710","Dressed in his suit, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.","Dressed in his suit, Someone strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.","5830.jpg",10,0,1,"James turns back towards his towel.
 Walking back towards the ocean, he looks around him again with an increasingly puzzled expression.
 Heading back up the beach, he returns to his belongings and picks up his grey business shirt, still looking around in confusion as he pulls the sleeves over his arms."
-5_Ericsson-UK,a11,"He heads up a steep, rugged slope.","He heads up a steep, rugged slope.",5830.jpg,10,0,1,"When the volume of the sound increases he looks about, perturbed by the strange trilling.
+"5_Ericsson-UK","a11","He heads up a steep, rugged slope.","He heads up a steep, rugged slope.","5830.jpg",10,0,1,"When the volume of the sound increases he looks about, perturbed by the strange trilling.
 He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on.
 He keeps a wary eye on his surroundings. Later he is fully dressed and walking along a pavement with trees arcing over it."
-6_Mennell-CA,a20,He climbs a well worn dirt path up a slope of cactuses and brush.,He climbs a well worn dirt path up a slope of cactuses and brush.,5830.jpg,10,0,1,"Then he makes his way to his clothes, still scanning the landscape around him in search of the source of the sound.
+"6_Mennell-CA","a20","He climbs a well worn dirt path up a slope of cactuses and brush.","He climbs a well worn dirt path up a slope of cactuses and brush.","5830.jpg",10,0,1,"Then he makes his way to his clothes, still scanning the landscape around him in search of the source of the sound.
 He pulls on his light blue button down shirt.
 Later, with his suit jacket open, he strolls beneath tall trees."
-7_MindsEye-UK,a16,"He climbs a winding path up a cliffside, picking his way, in his business shoes.","He climbs a winding path up a cliffside, picking his way, in his business shoes.",5830.jpg,10,0,1,"He turns.  He has pale skin, greying hairs on his chest.
+"7_MindsEye-UK","a16","He climbs a winding path up a cliffside, picking his way, in his business shoes.","He climbs a winding path up a cliffside, picking his way, in his business shoes.","5830.jpg",10,0,1,"He turns.  He has pale skin, greying hairs on his chest.
 He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
 A few moments later he walks along a path, in his suit and shirt."
-8_SDI-UK,a17,"Walking through scrubland,he climbs a steep, dusty track.","Walking through scrubland,he climbs a steep, dusty track.",5830.jpg,10,0,1,"Looking perplexed by the sound, he checks about him. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.
+"8_SDI-UK","a17","Walking through scrubland,he climbs a steep, dusty track.","Walking through scrubland,he climbs a steep, dusty track.","5830.jpg",10,0,1,"Looking perplexed by the sound, he checks about him. Further round the coast, in the background, the towers and buildings of a power plant fringe the shore.
 James' brow is furrowed as he walks back to his belongings on the beach and puts on his shirt. Two small boats bob about in the water behind him.
 Dressed again, but minus his tie, James walks past leafy trees."
-9_ADAssociates-US,a13,He climbs up a hill along a sandy path bordered by bushes and dry scrub,He climbs up a hill along a sandy path bordered by bushes and dry scrub,5830.jpg,10,0,1,"James stands, and wearing gray swim trunks, strolls toward the water but turns away and trudges on the sand several paces. Finally, he turns back.
+"9_ADAssociates-US","a13","He climbs up a hill along a sandy path bordered by bushes and dry scrub","He climbs up a hill along a sandy path bordered by bushes and dry scrub","5830.jpg",10,0,1,"James stands, and wearing gray swim trunks, strolls toward the water but turns away and trudges on the sand several paces. Finally, he turns back.
 He looks to both sides then moves on.
 He dons his shirt."
-4_Ericsson-AU,a4711,Two hands holding a takeaway coffee cup.,Two hands holding a takeaway coffee cup.,5910.jpg,11,0,1,"Walking back towards the ocean, he looks around him again with an increasingly puzzled expression.
+"4_Ericsson-AU","a4711","Two hands holding a takeaway coffee cup.","Two hands holding a takeaway coffee cup.","5910.jpg",11,0,1,"Walking back towards the ocean, he looks around him again with an increasingly puzzled expression.
 Heading back up the beach, he returns to his belongings and picks up his grey business shirt, still looking around in confusion as he pulls the sleeves over his arms.
 Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti."
-6_Mennell-CA,a21,Hands tap a take out coffee cup.,Hands tap a take out coffee cup.,5910.jpg,11,0,1,"He pulls on his light blue button down shirt.
+"6_Mennell-CA","a21","Hands tap a take out coffee cup.","Hands tap a take out coffee cup.","5910.jpg",11,0,1,"He pulls on his light blue button down shirt.
 Later, with his suit jacket open, he strolls beneath tall trees.
 Then he climbs a well worn dirt path up a slope of cactuses and brush."
-7_MindsEye-UK,a16,A takeaway coffee cup in a man's hands.,A takeaway coffee cup in a man's hands.,5910.jpg,11,0,1,"He turns.  He has pale skin, greying hairs on his chest.
+"7_MindsEye-UK","a16","A takeaway coffee cup in a man's hands.","A takeaway coffee cup in a man's hands.","5910.jpg",11,0,1,"He turns.  He has pale skin, greying hairs on his chest.
 He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
 A few moments later he walks along a path, in his suit and shirt."
-0_Able-NZ,a14,"Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile.","Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile.",6089.jpg,12,0,1,"Looking pertured, James continues looking away from the water, his eyes darting. He ambles back to his pile of clothes and puts on his grey business shirt.
+"0_Able-NZ","a14","Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile.","Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile.","6089.jpg",12,0,1,"Looking pertured, James continues looking away from the water, his eyes darting. He ambles back to his pile of clothes and puts on his grey business shirt.
 Later, now fully clothed, James marches down a street lined with leafy trees.
 He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup."
-1_Bridge-US,a30,"An unshaven older man with messy, longish, grey hair gazes around, looking bored. His eyes look moist and glassy.","An unshaven older man with messy, longish, grey hair gazes around, looking bored. His eyes look moist and glassy.",6089.jpg,12,0,1,"His unsmiling, serious face stares forward.
+"1_Bridge-US","a30","An unshaven older man with messy, longish, grey hair gazes around, looking bored. His eyes look moist and glassy.","An unshaven older man with messy, longish, grey hair gazes around, looking bored. His eyes look moist and glassy.","6089.jpg",12,0,1,"His unsmiling, serious face stares forward.
 James climbs a dirt trail, up a mountain covered in short, dense bushes and cactuses.
 Now, fingers lightly tap on a to-go coffee cup."
-2_BTI-UK,a75,"A middle aged man with unkempt grey hair, heavy brows and a bristly beard smiles. He wears a green vest and a chain around his neck.","A middle aged man with unkempt grey hair, heavy brows and a bristly beard smiles. He wears a green vest and a chain around his neck.",6089.jpg,12,0,1,"He puts on his blue shirt, his eyes scouring the sky for the source of the sound.
+"2_BTI-UK","a75","A middle aged man with unkempt grey hair, heavy brows and a bristly beard smiles. He wears a green vest and a chain around his neck.","A middle aged man with unkempt grey hair, heavy brows and a bristly beard smiles. He wears a green vest and a chain around his neck.","6089.jpg",12,0,1,"He puts on his blue shirt, his eyes scouring the sky for the source of the sound.
 With his suit back on, but no tie, he walks under a canopy of trees still looking puzzled.
 He clambers up a sandy pathway to the top of a steep rocky slope"
-3_Deluxe-UK,a13,A man wears a dark green vest and a chain necklace around his neck. He's about 60 with fine shaggy grey hair and a beard.,A man wears a dark green vest and a chain necklace around his neck. He's about 60 with fine shaggy grey hair and a beard.,6089.jpg,12,0,1,"Heavy browed James frowns and steps towards the water's edge, he continues to look around as he walks along the sand.
+"3_Deluxe-UK","a13","A man wears a dark green vest and a chain necklace around his neck. He's about 60 with fine shaggy grey hair and a beard.","A man wears a dark green vest and a chain necklace around his neck. He's about 60 with fine shaggy grey hair and a beard.","6089.jpg",12,0,1,"Heavy browed James frowns and steps towards the water's edge, he continues to look around as he walks along the sand.
 James goes back to his things. He picks up his shirt and puts it on.
 Fully dressed in his suit and with his shirt open James walks along by some trees. He tramps along a track running up a hill between scrubby bushes. Further up are craggy white rocks."
-4_Ericsson-AU,a4759,A thick-set man with a greying beard and fuzzy grey hair.,A thick-set man with a greying beard and fuzzy grey hair.,6089.jpg,12,0,1,"Heading back up the beach, he returns to his belongings and picks up his grey business shirt, still looking around in confusion as he pulls the sleeves over his arms
+"4_Ericsson-AU","a4759","A thick-set man with a greying beard and fuzzy grey hair.","A thick-set man with a greying beard and fuzzy grey hair.","6089.jpg",12,0,1,"Heading back up the beach, he returns to his belongings and picks up his grey business shirt, still looking around in confusion as he pulls the sleeves over his arms
 Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti
 Two hands holding a takeaway coffee cup"
-5_Ericsson-UK,a12,An unkempt man in his sixties has unruly collar length hair tinged grey at the temples and a salt and pepper beard. He smiles.,An unkempt man in his sixties has unruly collar length hair tinged grey at the temples and a salt and pepper beard. He smiles.,6089.jpg,12,0,1,"He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on.
+"5_Ericsson-UK","a12","An unkempt man in his sixties has unruly collar length hair tinged grey at the temples and a salt and pepper beard. He smiles.","An unkempt man in his sixties has unruly collar length hair tinged grey at the temples and a salt and pepper beard. He smiles.","6089.jpg",12,0,1,"He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on.
 He keeps a wary eye on his surroundings. Later he is fully dressed and walking along a pavement with trees arcing over it.
 He heads up a steep, rugged slope, trying to track down the source of the sound."
-6_Mennell-CA,a22,A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes.,A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes.,6089.jpg,12,0,1,"Later, with his suit jacket open, he strolls beneath tall trees.
+"6_Mennell-CA","a22","A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes.","A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes.","6089.jpg",12,0,1,"Later, with his suit jacket open, he strolls beneath tall trees.
 Then he climbs a well worn dirt path up a slope of cactuses and brush.
 Elsewhere, hands tap a take out coffee cup."
-7_MindsEye-UK,a16,"A bearded grey haired man with heavy green eyes. He has a chain around his neck, wears a vest.","A bearded grey haired man with heavy green eyes. He has a chain around his neck, wears a vest.",6089.jpg,12,0,1,"He turns.  He has pale skin, greying hairs on his chest.
+"7_MindsEye-UK","a16","A bearded grey haired man with heavy green eyes. He has a chain around his neck, wears a vest.","A bearded grey haired man with heavy green eyes. He has a chain around his neck, wears a vest.","6089.jpg",12,0,1,"He turns.  He has pale skin, greying hairs on his chest.
 He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
 A few moments later he walks along a path, in his suit and shirt."
-8_SDI-UK,a18,"A man in late middle-age has strong features, a grizzled beard and wild, wiry, greying hair. He wears a vest top and a heavy chain around his neck.","A man in late middle-age has strong features, a grizzled beard and wild, wiry, greying hair. He wears a vest top and a heavy chain around his neck.",6089.jpg,12,0,1,"James' brow is furrowed as he walks back to his belongings on the beach and puts on his shirt. Two small boats bob about in the water behind him.
+"8_SDI-UK","a18","A man in late middle-age has strong features, a grizzled beard and wild, wiry, greying hair. He wears a vest top and a heavy chain around his neck.","A man in late middle-age has strong features, a grizzled beard and wild, wiry, greying hair. He wears a vest top and a heavy chain around his neck.","6089.jpg",12,0,1,"James' brow is furrowed as he walks back to his belongings on the beach and puts on his shirt. Two small boats bob about in the water behind him.
 Dressed again, but minus his tie, James walks past leafy trees.
 Walking through scrubland,he climbs a steep, dusty track."
-9_ADAssociates-US,a17,"In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.","In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.",6089.jpg,12,0,1,"Now, a man taps the side of a coffee cup.
+"9_ADAssociates-US","a17","In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.","In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.","6089.jpg",12,0,1,"Now, a man taps the side of a coffee cup.
 He looks up and grins.
 He shakes his head."
-0_Able-NZ,a16,"White text reads: Rick, The retiree. ","White text reads: Rick, The retiree. ",6658.jpg,13,1,0,"He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup.
+"0_Able-NZ","a16","White text reads: Rick, The retiree. ","White text reads: Rick, The retiree. ","6658.jpg",13,1,0,"He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup.
 Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile and looks down.
 He traces his finger around the white plastic lid, then removes it. Examining the dark liquid contents, he holds the cup to his mouth, pauses, then takes a sip."
-1_Bridge-US,a34,"Words: Rick, the Retiree.","Words: Rick, the Retiree.",6658.jpg,13,1,0,"He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.
+"1_Bridge-US","a34","Words: Rick, the Retiree.","Words: Rick, the Retiree.","6658.jpg",13,1,0,"He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.
 He removes the lid and raises the black coffee to his mouth.
 The man hesitates, then gulps from the small cup."
-2_BTI-UK,a78,"In white letters: RICK, the retiree.","In white letters: RICK, the retiree.",6658.jpg,13,1,0,"He clambers up a sandy pathway to the top of a steep rocky slope
+"2_BTI-UK","a78","In white letters: RICK, the retiree.","In white letters: RICK, the retiree.","6658.jpg",13,1,0,"He clambers up a sandy pathway to the top of a steep rocky slope
 A middle aged man with unkempt grey hair, heavy brows and a bristly beard taps his coffee cup in his fingers. He wears a green vest and a chain around his neck. His eyes follow a flight of birds and a smile comes to his lips.  He has a tatoo on his upper arm and a chain bracelet on one wrist. He taps the lid of the cup and lifts it.
 He peers at the half full cup of coffee and takes a sip."
-3_Deluxe-UK,a14,Rick: The Retiree.,Rick: The Retiree.,6658.jpg,13,1,0,"James goes back to his things. He picks up his shirt and puts it on.
+"3_Deluxe-UK","a14","Rick: The Retiree.","Rick: The Retiree.","6658.jpg",13,1,0,"James goes back to his things. He picks up his shirt and puts it on.
 Fully dressed in his suit and with his shirt open James walks along by some trees. He tramps along a track running up a hill between scrubby bushes. Further up are craggy white rocks.
 A man sits tapping a lidded takeaway coffee cup with his fingers. He wears jeans and a dark green vest. He's about 60 with fine shaggy grey hair and a beard. He shakes his head and lets out a long weary breath. He runs his finger round the coffee cup lid then pulls it off. He holds up the half full cup of black coffee and has a drink."
-4_Ericsson-AU,a4713,Rick - the retiree.,Rick - the retiree.,6658.jpg,13,1,0,"Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.
+"4_Ericsson-AU","a4713","Rick - the retiree.","Rick - the retiree.","6658.jpg",13,1,0,"Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.
 Two hands holding a takeaway coffee cup. They belong to a thick-set man with a greying beard and fuzzy grey hair. His large eyes look about him.
 He taps the lid of his coffee cup before taking it off and smelling the black coffee. He sips it with a look of resignation."
-5_Ericsson-UK,a14,Rick - the retiree.,Rick - the retiree.,6658.jpg,13,1,0,"He heads up a steep, rugged slope, trying to track down the source of the sound.
+"5_Ericsson-UK","a14","Rick - the retiree.","Rick - the retiree.","6658.jpg",13,1,0,"He heads up a steep, rugged slope, trying to track down the source of the sound.
 An unkempt man is holding a takeaway coffee cup in his hands.  He taps the side of the cup then narrows his eyes pensively before smiling and shaking his head. He's in his sixties, has unruly collar length hair tinged grey at the temples and a salt and pepper beard.
 He lifts the plastic lid off the cup and peers at the dark liquid inside, hesitates then takes a sip."
-6_Mennell-CA,a26,A title reads: 'Rick: the retiree'.,A title reads: 'Rick: the retiree'.,6658.jpg,13,1,0,"He shakes his head.
+"6_Mennell-CA","a26","A title reads: 'Rick: the retiree'.","A title reads: 'Rick: the retiree'.","6658.jpg",13,1,0,"He shakes his head.
 He taps his coffee lid before removing it.
 He swirls the dark liquid then takes a swig."
-7_MindsEye-UK,a18,"Caption: Rick, the retiree.","Caption: Rick, the retiree.",6658.jpg,13,1,0,"He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
+"7_MindsEye-UK","a18","Caption: Rick, the retiree.","Caption: Rick, the retiree.","6658.jpg",13,1,0,"He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
 A few moments later he walks along a path, in his suit and shirt.
 He climbs a winding path up a cliffside, picking his way, in his business shoes.  A takeaway coffee cup in a man’s hands; fingers tap.  A bearded grey haired man with heavy green eyes.  He has a chain around his neck, tattoos on his shoulder, wears a vest.  He shakes his head.  He runs his finger round the lid, removes it, and sips the black coffee."
-8_SDI-UK,a20,Rick. The Retiree.,Rick. The Retiree.,6658.jpg,13,1,0,"Walking through scrubland,he climbs a steep, dusty track.
+"8_SDI-UK","a20","Rick. The Retiree.","Rick. The Retiree.","6658.jpg",13,1,0,"Walking through scrubland,he climbs a steep, dusty track.
 A man holding a plastic cup taps the sides and sniffs. He's in late middle-age with strong features and a grizzled beard.
 Looking bored,the man who has wild, wiry, greying hair runs an index finger around the lid of the cup, then removes it. The cup is half full of clear dark liquid, which he studies before taking a sip."
-9_ADAssociates-US,a19,"Rick, the retiree.","Rick, the retiree.",6658.jpg,13,1,0,"He shakes his head.
+"9_ADAssociates-US","a19","Rick, the retiree.","Rick, the retiree.","6658.jpg",13,1,0,"He shakes his head.
 he traces the lid of his cup with a finger. In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.
 Removing the coffee cup lid, he sips from his coffee."
-0_Able-NZ,a16,"Wearing a singlet, the man has a greying beard and frizzy hair. White text reads: Rick, The retiree. ","Wearing a singlet, the man has a greying beard and frizzy hair. White text reads: Rick, The retiree. ",6658.jpg,13,1,1,"He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup.
+"0_Able-NZ","a16","Wearing a singlet, the man has a greying beard and frizzy hair. White text reads: Rick, The retiree. ","Wearing a singlet, the man has a greying beard and frizzy hair. White text reads: Rick, The retiree. ","6658.jpg",13,1,1,"He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup.
 Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile and looks down.
 He traces his finger around the white plastic lid, then removes it. Examining the dark liquid contents, he holds the cup to his mouth, pauses, then takes a sip."
-1_Bridge-US,a34,"An unshaven older man with messy, longish, grey hair gazes around, looking bored. His eyes look moist and glassy. Words: Rick, the Retiree.","An unshaven older man with messy, longish, grey hair gazes around, looking bored. His eyes look moist and glassy. Words: Rick, the Retiree.",6658.jpg,13,1,1,"He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.
+"1_Bridge-US","a34","An unshaven older man with messy, longish, grey hair gazes around, looking bored. His eyes look moist and glassy. Words: Rick, the Retiree.","An unshaven older man with messy, longish, grey hair gazes around, looking bored. His eyes look moist and glassy. Words: Rick, the Retiree.","6658.jpg",13,1,1,"He stares down at his hands and the coffee cup, circling his fingers around the plastic lid.
 He removes the lid and raises the black coffee to his mouth.
 The man hesitates, then gulps from the small cup."
-2_BTI-UK,a78,"A middle aged man with unkempt grey hair and heavy brows. He wears a green vest and a chain around his neck. In white letters: RICK, the retiree.","A middle aged man with unkempt grey hair and heavy brows. He wears a green vest and a chain around his neck. In white letters: RICK, the retiree.",6658.jpg,13,1,1,"He clambers up a sandy pathway to the top of a steep rocky slope
+"2_BTI-UK","a78","A middle aged man with unkempt grey hair and heavy brows. He wears a green vest and a chain around his neck. In white letters: RICK, the retiree.","A middle aged man with unkempt grey hair and heavy brows. He wears a green vest and a chain around his neck. In white letters: RICK, the retiree.","6658.jpg",13,1,1,"He clambers up a sandy pathway to the top of a steep rocky slope
 A middle aged man with unkempt grey hair, heavy brows and a bristly beard taps his coffee cup in his fingers. He wears a green vest and a chain around his neck. His eyes follow a flight of birds and a smile comes to his lips.  He has a tatoo on his upper arm and a chain bracelet on one wrist. He taps the lid of the cup and lifts it.
 He peers at the half full cup of coffee and takes a sip."
-3_Deluxe-UK,a14,A man wears a dark green vest and a chain necklace around his neck. He's about 60 with fine shaggy grey hair and a beard. Rick: The Retiree.,A man wears a dark green vest and a chain necklace around his neck. He's about 60 with fine shaggy grey hair and a beard. Rick: The Retiree.,6658.jpg,13,1,1,"James goes back to his things. He picks up his shirt and puts it on.
+"3_Deluxe-UK","a14","A man wears a dark green vest and a chain necklace around his neck. He's about 60 with fine shaggy grey hair and a beard. Rick: The Retiree.","A man wears a dark green vest and a chain necklace around his neck. He's about 60 with fine shaggy grey hair and a beard. Rick: The Retiree.","6658.jpg",13,1,1,"James goes back to his things. He picks up his shirt and puts it on.
 Fully dressed in his suit and with his shirt open James walks along by some trees. He tramps along a track running up a hill between scrubby bushes. Further up are craggy white rocks.
 A man sits tapping a lidded takeaway coffee cup with his fingers. He wears jeans and a dark green vest. He's about 60 with fine shaggy grey hair and a beard. He shakes his head and lets out a long weary breath. He runs his finger round the coffee cup lid then pulls it off. He holds up the half full cup of black coffee and has a drink."
-4_Ericsson-AU,a4713,A thick-set man with a greying beard and fuzzy grey hair. Rick - the retiree.,A thick-set man with a greying beard and fuzzy grey hair. Rick - the retiree.,6658.jpg,13,1,1,"Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.
+"4_Ericsson-AU","a4713","A thick-set man with a greying beard and fuzzy grey hair. Rick - the retiree.","A thick-set man with a greying beard and fuzzy grey hair. Rick - the retiree.","6658.jpg",13,1,1,"Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.
 Two hands holding a takeaway coffee cup. They belong to a thick-set man with a greying beard and fuzzy grey hair. His large eyes look about him.
 He taps the lid of his coffee cup before taking it off and smelling the black coffee. He sips it with a look of resignation."
-5_Ericsson-UK,a12,An unkempt man in his sixties has unruly collar length hair tinged grey at the temples and a salt and pepper beard. Rick - the retiree.,An unkempt man in his sixties has unruly collar length hair tinged grey at the temples and a salt and pepper beard. Rick - the retiree.,6658.jpg,13,1,1,"He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on.
+"5_Ericsson-UK","a12","An unkempt man in his sixties has unruly collar length hair tinged grey at the temples and a salt and pepper beard. Rick - the retiree.","An unkempt man in his sixties has unruly collar length hair tinged grey at the temples and a salt and pepper beard. Rick - the retiree.","6658.jpg",13,1,1,"He heads back to his spot, a frown furrowing his brow, then picks up his work shirt and starts to put it on.
 He keeps a wary eye on his surroundings. Later he is fully dressed and walking along a pavement with trees arcing over it.
 He heads up a steep, rugged slope, trying to track down the source of the sound."
-6_Mennell-CA,a26,A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes. A title reads: 'Rick: the retiree'.,A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes. A title reads: 'Rick: the retiree'.,6658.jpg,13,1,1,"He shakes his head.
+"6_Mennell-CA","a26","A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes. A title reads: 'Rick: the retiree'.","A man in his sixties has unruly grey hair and a thick beard. He has tired green eyes. A title reads: 'Rick: the retiree'.","6658.jpg",13,1,1,"He shakes his head.
 He taps his coffee lid before removing it.
 He swirls the dark liquid then takes a swig."
-7_MindsEye-UK,a18,"A bearded grey haired man with heavy green eyes. He has a chain around his neck, wears a vest. Caption: Rick, the retiree.","A bearded grey haired man with heavy green eyes. He has a chain around his neck, wears a vest. Caption: Rick, the retiree.",6658.jpg,13,1,1,"He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
+"7_MindsEye-UK","a18","A bearded grey haired man with heavy green eyes. He has a chain around his neck, wears a vest. Caption: Rick, the retiree.","A bearded grey haired man with heavy green eyes. He has a chain around his neck, wears a vest. Caption: Rick, the retiree.","6658.jpg",13,1,1,"He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
 A few moments later he walks along a path, in his suit and shirt.
 He climbs a winding path up a cliffside, picking his way, in his business shoes.  A takeaway coffee cup in a man’s hands; fingers tap.  A bearded grey haired man with heavy green eyes.  He has a chain around his neck, tattoos on his shoulder, wears a vest.  He shakes his head.  He runs his finger round the lid, removes it, and sips the black coffee."
-8_SDI-UK,a20,"A man in late middle-age has strong features, a grizzled beard and wild, wiry, greying hair. He wears a vest top and a heavy chain around his neck. Rick. The Retiree.",,6658.jpg,13,1,1,"Walking through scrubland,he climbs a steep, dusty track.
+"8_SDI-UK","a20","A man in late middle-age has strong features, a grizzled beard and wild, wiry, greying hair. He wears a vest top and a heavy chain around his neck. Rick. The Retiree.",,"6658.jpg",13,1,1,"Walking through scrubland,he climbs a steep, dusty track.
 A man holding a plastic cup taps the sides and sniffs. He's in late middle-age with strong features and a grizzled beard.
 Looking bored,the man who has wild, wiry, greying hair runs an index finger around the lid of the cup, then removes it. The cup is half full of clear dark liquid, which he studies before taking a sip."
-9_ADAssociates-US,a19,"In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair. Rick, the retiree.",,6658.jpg,13,1,1,"He shakes his head.
+"9_ADAssociates-US","a19","In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair. Rick, the retiree.",,"6658.jpg",13,1,1,"He shakes his head.
 he traces the lid of his cup with a finger. In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.
 Removing the coffee cup lid, he sips from his coffee."
-0_Able-NZ,a16,Rick sits on a wooden chair in a leafy urban park.,Someone sits on a wooden chair in a leafy urban park.,7099.jpg,14,0,1,"He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup.
+"0_Able-NZ","a16","Rick sits on a wooden chair in a leafy urban park.","Someone sits on a wooden chair in a leafy urban park.","7099.jpg",14,0,1,"He slowly makes his way up a steep, craggy slope with dry vegetation. A man taps his finger on a takeaway coffee cup.
 Wearing a singlet, the man has a greying beard and frizzy hair. He gives a wry smile and looks down.
 He traces his finger around the white plastic lid, then removes it. Examining the dark liquid contents, he holds the cup to his mouth, pauses, then takes a sip."
-1_Bridge-US,a36,Rick sits alone at a park bench.,Someone sits alone at a park bench.,7099.jpg,14,0,1,"The man hesitates, then gulps from the small cup.
+"1_Bridge-US","a36","Rick sits alone at a park bench.","Someone sits alone at a park bench.","7099.jpg",14,0,1,"The man hesitates, then gulps from the small cup.
 His eyes look moist and glassy.
 Words appear: Rick, the Retiree."
-2_BTI-UK,a78,He is sitting on a bench beneath some trees in full leaf.,He is sitting on a bench beneath some trees in full leaf.,7099.jpg,14,0,1,"He clambers up a sandy pathway to the top of a steep rocky slope
+"2_BTI-UK","a78","He is sitting on a bench beneath some trees in full leaf.","He is sitting on a bench beneath some trees in full leaf.","7099.jpg",14,0,1,"He clambers up a sandy pathway to the top of a steep rocky slope
 A middle aged man with unkempt grey hair, heavy brows and a bristly beard taps his coffee cup in his fingers. He wears a green vest and a chain around his neck. His eyes follow a flight of birds and a smile comes to his lips.  He has a tatoo on his upper arm and a chain bracelet on one wrist. He taps the lid of the cup and lifts it.
 He peers at the half full cup of coffee and takes a sip."
-3_Deluxe-UK,a14,He's sitting in the middle of three chairs in a park.,He's sitting in the middle of three chairs in a park.,7099.jpg,14,0,1,"James goes back to his things. He picks up his shirt and puts it on.
+"3_Deluxe-UK","a14","He's sitting in the middle of three chairs in a park.","He's sitting in the middle of three chairs in a park.","7099.jpg",14,0,1,"James goes back to his things. He picks up his shirt and puts it on.
 Fully dressed in his suit and with his shirt open James walks along by some trees. He tramps along a track running up a hill between scrubby bushes. Further up are craggy white rocks.
 A man sits tapping a lidded takeaway coffee cup with his fingers. He wears jeans and a dark green vest. He's about 60 with fine shaggy grey hair and a beard. He shakes his head and lets out a long weary breath. He runs his finger round the coffee cup lid then pulls it off. He holds up the half full cup of black coffee and has a drink."
-4_Ericsson-AU,a4713,"He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm.","He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm.",7099.jpg,14,0,1,"Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.
+"4_Ericsson-AU","a4713","He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm.","He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm.","7099.jpg",14,0,1,"Dressed in his suit again, James strolls down the promenade and scrambles up a sandy embankment overgrown with dry shrubs, grasses and cacti.
 Two hands holding a takeaway coffee cup. They belong to a thick-set man with a greying beard and fuzzy grey hair. His large eyes look about him.
 He taps the lid of his coffee cup before taking it off and smelling the black coffee. He sips it with a look of resignation."
-5_Ericsson-UK,a15,Rick is sitting on a wooden chair in the shade of trees with mishapen trunks.,Someone is sitting on a wooden chair in the shade of trees with mishapen trunks.,7099.jpg,14,0,1,"An unkempt man is holding a takeaway coffee cup in his hands.  He taps the side of the cup then narrows his eyes pensively before smiling and shaking his head. He's in his sixties, has unruly collar length hair tinged grey at the temples and a salt and pepper beard.
+"5_Ericsson-UK","a15","Rick is sitting on a wooden chair in the shade of trees with mishapen trunks.","Someone is sitting on a wooden chair in the shade of trees with mishapen trunks.","7099.jpg",14,0,1,"An unkempt man is holding a takeaway coffee cup in his hands.  He taps the side of the cup then narrows his eyes pensively before smiling and shaking his head. He's in his sixties, has unruly collar length hair tinged grey at the temples and a salt and pepper beard.
 He lifts the plastic lid off the cup and peers at the dark liquid inside, hesitates then takes a sip.
 Rick - the retiree."
-6_Mennell-CA,a26,Sitting in the shade he wears an army green tank top that exposes his black tattoos on his upper arms.,Sitting in the shade he wears an army green tank top that exposes his black tattoos on his upper arms.,7099.jpg,14,0,1,"He shakes his head.
+"6_Mennell-CA","a26","Sitting in the shade he wears an army green tank top that exposes his black tattoos on his upper arms.","Sitting in the shade he wears an army green tank top that exposes his black tattoos on his upper arms.","7099.jpg",14,0,1,"He shakes his head.
 He taps his coffee lid before removing it.
 He swirls the dark liquid then takes a swig."
-7_MindsEye-UK,a18,"Rick sits on a park bench, in the sunshine.","Someone sits on a park bench, in the sunshine.",7099.jpg,14,0,1,"He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
+"7_MindsEye-UK","a18","Rick sits on a park bench, in the sunshine.","Someone sits on a park bench, in the sunshine.","7099.jpg",14,0,1,"He walks back along the beach to his clothes, passing small boats out at sea.  He stoops, picks up his shirt, pulls it on.
 A few moments later he walks along a path, in his suit and shirt.
 He climbs a winding path up a cliffside, picking his way, in his business shoes.  A takeaway coffee cup in a man’s hands; fingers tap.  A bearded grey haired man with heavy green eyes.  He has a chain around his neck, tattoos on his shoulder, wears a vest.  He shakes his head.  He runs his finger round the lid, removes it, and sips the black coffee."
-8_SDI-UK,a20,Rick is sitting on a chair in a sun-dappled area of a park.,Someone is sitting on a chair in a sun-dappled area of a park.,7099.jpg,14,0,1,"Walking through scrubland,he climbs a steep, dusty track.
+"8_SDI-UK","a20","Rick is sitting on a chair in a sun-dappled area of a park.","Someone is sitting on a chair in a sun-dappled area of a park.","7099.jpg",14,0,1,"Walking through scrubland,he climbs a steep, dusty track.
 A man holding a plastic cup taps the sides and sniffs. He's in late middle-age with strong features and a grizzled beard.
 Looking bored,the man who has wild, wiry, greying hair runs an index finger around the lid of the cup, then removes it. The cup is half full of clear dark liquid, which he studies before taking a sip."
-9_ADAssociates-US,a20,"Seated in a chair between two other chairs. Behind him, foliage and tall trees.","Seated in a chair between two other chairs. Behind him, foliage and tall trees.",7099.jpg,14,0,1,"he traces the lid of his cup with a finger. In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.
+"9_ADAssociates-US","a20","Seated in a chair between two other chairs. Behind him, foliage and tall trees.","Seated in a chair between two other chairs. Behind him, foliage and tall trees.","7099.jpg",14,0,1,"he traces the lid of his cup with a finger. In a tank top and with a gold chain around his neck, the man has a salt-and-pepper beard and straggly, wind-blown hair.
 Removing the coffee cup lid, he sips from his coffee.
 Rick, The retiree."
-0_Able-NZ,a19,Rick frowns.,Someone frowns.,9412.jpg,15,0,1,"White text reads: Rick, The retiree. Rick sits on a wooden chair in a leafy urban park. Hejiggles his knee as he continues sipping his drink. With a shake of his head, he places the cup on a seat next to him then claps his hands together.
+"0_Able-NZ","a19","Rick frowns.","Someone frowns.","9412.jpg",15,0,1,"White text reads: Rick, The retiree. Rick sits on a wooden chair in a leafy urban park. Hejiggles his knee as he continues sipping his drink. With a shake of his head, he places the cup on a seat next to him then claps his hands together.
 Taking his phone from his back trouser pocket, Rick scrolls through his contact list. He presses the screen to call Craig Anderson and holds the phone to his ear.
 Rick looks up, confused."
-3_Deluxe-UK,a17,"He looks up, frowning.","He looks up, frowning.",9412.jpg,15,0,1,"Rick: The Retiree. Rick wears a chain necklace around his neck. He's sitting in the middle of three chairs in a park. He nervously jiggles his right leg up and down, puts the cup on the chair beside him and restlessly claps his hands together.
+"3_Deluxe-UK","a17","He looks up, frowning.","He looks up, frowning.","9412.jpg",15,0,1,"Rick: The Retiree. Rick wears a chain necklace around his neck. He's sitting in the middle of three chairs in a park. He nervously jiggles his right leg up and down, puts the cup on the chair beside him and restlessly claps his hands together.
 Rick looks agitated. He takes his mobile phone from his back pocket, opens the cover and scans through his contacts. He stops at Craig Anderson, and makes a call.
 At the sound he looks up and frowns."
-4_Ericsson-AU,a4716,He frowns.,He frowns.,9412.jpg,15,0,1,"Rick - the retiree. He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm. He taps his right leg restlessly as he takes another sip of coffee, then he puts the cup aside and claps his hands aimlessly.
+"4_Ericsson-AU","a4716","He frowns.","He frowns.","9412.jpg",15,0,1,"Rick - the retiree. He's sitting on a park bench in dappled shade, wearing an olive-green vest that exposes the chain around his neck and the tattoos on his arm. He taps his right leg restlessly as he takes another sip of coffee, then he puts the cup aside and claps his hands aimlessly.
 Taking a phone from his back pocket, he searches his list of contacts before choosing the number of someone called Craig Anderson.
 Rick frowns at the sky."
-9_ADAssociates-US,a24,Knits his eyebrows.,Knits his eyebrows.,9412.jpg,15,0,1,"He puts down the cup and claps his hands before retrieving a phone from his pocket.
+"9_ADAssociates-US","a24","Knits his eyebrows.","Knits his eyebrows.","9412.jpg",15,0,1,"He puts down the cup and claps his hands before retrieving a phone from his pocket.
 He scrolls through contacts and selects ""Craig Anderson"".
 Shakes his head."
-0_Able-NZ,a2486,A woman with tightly curled brunette hair holds a pencil to her mouth.,A woman with tightly curled brunette hair holds a pencil to her mouth.,10445.jpg,16,0,1,"Rick looks up, confused.
+"0_Able-NZ","a2486","A woman with tightly curled brunette hair holds a pencil to her mouth.","A woman with tightly curled brunette hair holds a pencil to her mouth.","10445.jpg",16,0,1,"Rick looks up, confused.
 Rick frowns.
 Pocketing his phone, Rick gets up and leaves his takeaway cup on the seat. He casts his eyes skyward as he walks away. A woman with tightly curled brunette hair holds a penci!to her mouth."
-1_Bridge-US,a47,A young woman looks tired and bites on the end of a pencil.,A young woman looks tired and bites on the end of a pencil.,10445.jpg,16,0,1,"Rick wanders off along a park trail, leaving his coffee cup on a bench.
+"1_Bridge-US","a47","A young woman looks tired and bites on the end of a pencil.","A young woman looks tired and bites on the end of a pencil.","10445.jpg",16,0,1,"Rick wanders off along a park trail, leaving his coffee cup on a bench.
 Rick wears a loose, green tank-top and jeans. He looks up and turns around, as if he's scanning for the sound.
 Now, a young woman looks tired and gazes at an open laptop."
-2_BTI-UK,a84,A girl with ringletted auburn hair chews on her pencil.,"A girl with ringletted auburn hair, heaves a sigh and chews on her pencil.",10445.jpg,16,0,1,"He scrolls through his contact list.
+"2_BTI-UK","a84","A girl with ringletted auburn hair chews on her pencil.","A girl with ringletted auburn hair, heaves a sigh and chews on her pencil.","10445.jpg",16,0,1,"He scrolls through his contact list.
 He finds one, taps on the green ring icon and puts the phone to his ear.
 He hears the high pitched sound."
-3_Deluxe-UK,a43,A young woman of about twenty has long red hair that hangs loose in ringlets. She chews a pencil.,A young woman of about twenty has long red hair that hangs loose in ringlets. She chews a pencil.,10445.jpg,16,0,1,"Rick looks agitated. He takes his mobile phone from his back pocket, opens the cover and scans through his contacts. He stops at Craig Anderson, and makes a call.
+"3_Deluxe-UK","a43","A young woman of about twenty has long red hair that hangs loose in ringlets. She chews a pencil.","A young woman of about twenty has long red hair that hangs loose in ringlets. She chews a pencil.","10445.jpg",16,0,1,"Rick looks agitated. He takes his mobile phone from his back pocket, opens the cover and scans through his contacts. He stops at Craig Anderson, and makes a call.
 At the sound he looks up and frowns.
 He looks up again, frowning."
-4_Ericsson-AU,a4718,A young woman with springy red-brown curls.,A young woman with springy red-brown curls.,10445.jpg,16,0,1,"Rick frowns at the sky.
+"4_Ericsson-AU","a4718","A young woman with springy red-brown curls.","A young woman with springy red-brown curls.","10445.jpg",16,0,1,"Rick frowns at the sky.
 He frowns again.
 He leaves his coffee behind as he pockets his phone and walks through the park, scanning the air above his head."
-5_Ericsson-UK,a19,A curly haired woman bites the end of a pencil.,A curly haired woman bites the end of a pencil.,10445.jpg,16,0,1,"He puts down his cup then claps his hands before rubbing them together. He takes a smartphone out of his back pocket and starts scrolling down the list of contacts.
+"5_Ericsson-UK","a19","A curly haired woman bites the end of a pencil.","A curly haired woman bites the end of a pencil.","10445.jpg",16,0,1,"He puts down his cup then claps his hands before rubbing them together. He takes a smartphone out of his back pocket and starts scrolling down the list of contacts.
 He selects a name, Craig Anderson, then holds his phone to his ear.
 Rick sets off, wearing baggy jeans and a vest, looking intrigued by the strange sound. He leaves his coffee cup behind."
-6_Mennell-CA,a32,A girl in her early twenties with thick curly red hair.,A girl in her early twenties with thick curly red hair.,10445.jpg,16,0,1,"He squints toward the sky.
+"6_Mennell-CA","a32","A girl in her early twenties with thick curly red hair.","A girl in her early twenties with thick curly red hair.","10445.jpg",16,0,1,"He squints toward the sky.
 He squints upwards again.
 Leaving his coffee on the bench he scans the sky  before heading off down a gravel path."
-7_MindsEye-UK,a22,A young woman with crinkly red hair chews a pencil.,A young woman with crinkly red hair chews a pencil.,10445.jpg,16,0,1,"He frowns at the sound.
+"7_MindsEye-UK","a22","A young woman with crinkly red hair chews a pencil.","A young woman with crinkly red hair chews a pencil.","10445.jpg",16,0,1,"He frowns at the sound.
 He looks up, listening.
 He stands; he sets off, leaving his coffee cup on the bench. He walks towards the trees looking around him."
-8_SDI-UK,a26,"A young woman chewing a pencil. She has long, curly auburn hair.","A young woman chewing a pencil. She has long, curly auburn hair.",10445.jpg,16,0,1,"Using his index finger, he scrolls through his contacts list to Craig Anderson and calls him.
+"8_SDI-UK","a26","A young woman chewing a pencil. She has long, curly auburn hair.","A young woman chewing a pencil. She has long, curly auburn hair.","10445.jpg",16,0,1,"Using his index finger, he scrolls through his contacts list to Craig Anderson and calls him.
 Hearing the noise, he scans about.
 Leaving his cup on a chair, Rick hurries away along a sandy path, scanning above him and about him, following the noise"
-9_ADAssociates-US,a213,"With foliage in the background, a young woman with long, curly, red hair brings a pencil end to her lips.","With foliage in the background, a young woman with long, curly, red hair brings a pencil end to her lips.",10445.jpg,16,0,1,"Moves his right hand back and forth
+"9_ADAssociates-US","a213","With foliage in the background, a young woman with long, curly, red hair brings a pencil end to her lips.","With foliage in the background, a young woman with long, curly, red hair brings a pencil end to her lips.","10445.jpg",16,0,1,"Moves his right hand back and forth
 He looks around
 Glancing to each side, Rick strolls along a concrete walkway, his coffee cup still on a bench"
-0_Able-NZ,a2486,"White text reads: Jess, The student.","White text reads: Jess, The student.",10490.jpg,17,1,1,"Rick looks up, confused.
+"0_Able-NZ","a2486","White text reads: Jess, The student.","White text reads: Jess, The student.","10490.jpg",17,1,1,"Rick looks up, confused.
 Rick frowns.
 Pocketing his phone, Rick gets up and leaves his takeaway cup on the seat. He casts his eyes skyward as he walks away. A woman with tightly curled brunette hair holds a penci!to her mouth."
-1_Bridge-US,a47,"Words appear: Jess, the Student.","Words appear: Jess, the Student.",10490.jpg,17,1,1,"Rick wanders off along a park trail, leaving his coffee cup on a bench.
+"1_Bridge-US","a47","Words appear: Jess, the Student.","Words appear: Jess, the Student.","10490.jpg",17,1,1,"Rick wanders off along a park trail, leaving his coffee cup on a bench.
 Rick wears a loose, green tank-top and jeans. He looks up and turns around, as if he's scanning for the sound.
 Now, a young woman looks tired and gazes at an open laptop."
-2_BTI-UK,a84,"In white letters: JESS, the student.","In white letters: JESS, the student.",10490.jpg,17,1,1,"He scrolls through his contact list.
+"2_BTI-UK","a84","In white letters: JESS, the student.","In white letters: JESS, the student.","10490.jpg",17,1,1,"He scrolls through his contact list.
 He finds one, taps on the green ring icon and puts the phone to his ear.
 He hears the high pitched sound."
-3_Deluxe-UK,a20,Jess: The Student.,Jess: The Student.,10490.jpg,17,1,1,"He looks up again, frowning.
+"3_Deluxe-UK","a20","Jess: The Student.","Jess: The Student.","10490.jpg",17,1,1,"He looks up again, frowning.
 Rick leaves the coffee cup on the seat, gets up and walks away, looking around as he goes. A young woman of about twenty sits at a desk typing. She has long red hair that hangs loose in ringlets.
 She restlessly chews a pencil."
-4_Ericsson-AU,a4718,Jess - the student.,Jess - the student.,10490.jpg,17,1,1,"Rick frowns at the sky.
+"4_Ericsson-AU","a4718","Jess - the student.","Jess - the student.","10490.jpg",17,1,1,"Rick frowns at the sky.
 He frowns again.
 He leaves his coffee behind as he pockets his phone and walks through the park, scanning the air above his head."
-5_Ericsson-UK,a19,Jess - the student.,Jess - the student.,10490.jpg,17,1,1,"He puts down his cup then claps his hands before rubbing them together. He takes a smartphone out of his back pocket and starts scrolling down the list of contacts.
+"5_Ericsson-UK","a19","Jess - the student.","Jess - the student.","10490.jpg",17,1,1,"He puts down his cup then claps his hands before rubbing them together. He takes a smartphone out of his back pocket and starts scrolling down the list of contacts.
 He selects a name, Craig Anderson, then holds his phone to his ear.
 Rick sets off, wearing baggy jeans and a vest, looking intrigued by the strange sound. He leaves his coffee cup behind."
-6_Mennell-CA,a32,"A title reads: 'Jess, the student.'","A title reads: 'Jess, the student.'",10490.jpg,17,1,1,"He squints toward the sky.
+"6_Mennell-CA","a32","A title reads: 'Jess, the student.'","A title reads: 'Jess, the student.'","10490.jpg",17,1,1,"He squints toward the sky.
 He squints upwards again.
 Leaving his coffee on the bench he scans the sky  before heading off down a gravel path."
-7_MindsEye-UK,a23,Caption: Jess the student.,Caption: Jess the student.,10490.jpg,17,1,1,"He looks up, listening.
+"7_MindsEye-UK","a23","Caption: Jess the student.","Caption: Jess the student.","10490.jpg",17,1,1,"He looks up, listening.
 He stands; he sets off, leaving his coffee cup on the bench. He walks towards the trees looking around him.
 A young woman with crinkly red hair."
-8_SDI-UK,a27,Jess. The Student.,Jess. The Student.,10490.jpg,17,1,1,"Hearing the noise, he scans about.
+"8_SDI-UK","a27","Jess. The Student.","Jess. The Student.","10490.jpg",17,1,1,"Hearing the noise, he scans about.
 Leaving his cup on a chair, Rick hurries away along a sandy path, scanning above him and about him, following the noise
 A young woman."
-9_ADAssociates-US,a29,"Jess, The student.","Jess, The student.",10490.jpg,17,1,1,"He looks around.
+"9_ADAssociates-US","a29","Jess, The student.","Jess, The student.","10490.jpg",17,1,1,"He looks around.
 Glancing to each side, Rick strolls along a concrete walkway, his coffee cup still on a bench.
 Next, with foliage in the background, a young woman with long, curly, red hair sits at a laptop and papers. She brings a pencil end to her lips."
-6_Mennell-CA,a36,"Outside, she wears a jacket and scarf.","Outside, she wears a jacket and scarf.",12807.jpg,18,0,1,"She searches for her phone beneath a pile of papers on her desk.
+"6_Mennell-CA","a36","Outside, she wears a jacket and scarf.","Outside, she wears a jacket and scarf.","12807.jpg",18,0,1,"She searches for her phone beneath a pile of papers on her desk.
 Hanging up she surveys the room around her.
 Hearing the noise again she stands."
-7_MindsEye-UK,a25,"She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.","She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.",12807.jpg,18,0,1,"A young woman with crinkly red hair.
+"7_MindsEye-UK","a25","She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.","She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.","12807.jpg",18,0,1,"A young woman with crinkly red hair.
 She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop.
 She ends the call. She looks around, frowning, listening."
-0_Able-NZ,a23,"Jess is outside, making her way through the grassy foliage on a slope before trotting out of sight.","Someone is outside, making her way through the grassy foliage on a slope before trotting out of sight.",13003.jpg,19,0,1,"White text reads: Jess, The student.
+"0_Able-NZ","a23","Jess is outside, making her way through the grassy foliage on a slope before trotting out of sight.","Someone is outside, making her way through the grassy foliage on a slope before trotting out of sight.","13003.jpg",19,0,1,"White text reads: Jess, The student.
 Checking behind her laptop, Jess locates her phone under a pile of papers.
 Jess disconnects the call and looks around, her eyes roving."
-1_Bridge-US,a54,Jess hikes up a hill. Tall grass and plants cover the ground. She wears a coat. The sun shines off the greenery.,Someone hikes up a hill. Tall grass and plants cover the ground. She wears a coat. The sun shines off the greenery.,13003.jpg,19,0,1,"Jess glances around the room. She peers left...and right. She touches her thick, curly, brown hair.
+"1_Bridge-US","a54","Jess hikes up a hill. Tall grass and plants cover the ground. She wears a coat. The sun shines off the greenery.","Someone hikes up a hill. Tall grass and plants cover the ground. She wears a coat. The sun shines off the greenery.","13003.jpg",19,0,1,"Jess glances around the room. She peers left...and right. She touches her thick, curly, brown hair.
 She stares into the silence, looking puzzled.
 She jolts up."
-2_BTI-UK,a90,"Wearing a hooded jacket, she climbs an overgrown slope, the sunlight reflected on her long ringlets","Wearing a hooded jacket, she climbs an overgrown slope, the sunlight reflected on her long ringlets",13003.jpg,19,0,1,"She rings off, perplexed by the sound,
+"2_BTI-UK","a90","Wearing a hooded jacket, she climbs an overgrown slope, the sunlight reflected on her long ringlets","Wearing a hooded jacket, she climbs an overgrown slope, the sunlight reflected on her long ringlets","13003.jpg",19,0,1,"She rings off, perplexed by the sound,
 She looks about her.
 Wearing a hooded jacket, she goes outside."
-3_Deluxe-UK,a24,Wearing her brown parka she walks up a hill. Tall grass and bushes surround her.,Wearing her brown parka she walks up a hill. Tall grass and bushes surround her.,13003.jpg,19,0,1,"She searches for her phone.
+"3_Deluxe-UK","a24","Wearing her brown parka she walks up a hill. Tall grass and bushes surround her.","Wearing her brown parka she walks up a hill. Tall grass and bushes surround her.","13003.jpg",19,0,1,"She searches for her phone.
 Jess finds her phone under some papers and answers it.
 Frowning she hangs up and looks around, puzzled by the sound."
-4_Ericsson-AU,a4722,"Outside, dressed in a warm jacket and jeans, Jess climbs up an overgrown hillside with the sun glinting on her long, springy hair.","Outside, dressed in a warm jacket and jeans, Someone climbs up an overgrown hillside with the sun glinting on her long, springy hair.",13003.jpg,19,0,1,"She searches her cluttered desk.
+"4_Ericsson-AU","a4722","Outside, dressed in a warm jacket and jeans, Jess climbs up an overgrown hillside with the sun glinting on her long, springy hair.","Outside, dressed in a warm jacket and jeans, Someone climbs up an overgrown hillside with the sun glinting on her long, springy hair.","13003.jpg",19,0,1,"She searches her cluttered desk.
 She finds her phone.
 Jess looks around her with a puzzled expression."
-6_Mennell-CA,a37,She hikes up an overgrown grassy slope.,She hikes up an overgrown grassy slope.,13003.jpg,19,0,1,"Hanging up she surveys the room around her.
+"6_Mennell-CA","a37","She hikes up an overgrown grassy slope.","She hikes up an overgrown grassy slope.","13003.jpg",19,0,1,"Hanging up she surveys the room around her.
 Hearing the noise again she stands.
 Later outside, she wears a jacket and scarf."
-7_MindsEye-UK,a25,"She climbs up the hillside, past trees and long grasses.","She climbs up the hillside, past trees and long grasses.",13003.jpg,19,0,1,"A young woman with crinkly red hair.
+"7_MindsEye-UK","a25","She climbs up the hillside, past trees and long grasses.","She climbs up the hillside, past trees and long grasses.","13003.jpg",19,0,1,"A young woman with crinkly red hair.
 She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop.
 She ends the call. She looks around, frowning, listening."
-8_SDI-UK,a29,"Outside, wearing a Parka with a fur-trimmed hood, she heads up a slope of tall grasses and scrubby bushes.","Outside, wearing a Parka with a fur-trimmed hood, she heads up a slope of tall grasses and scrubby bushes.",13003.jpg,19,0,1,"A young woman.
+"8_SDI-UK","a29","Outside, wearing a Parka with a fur-trimmed hood, she heads up a slope of tall grasses and scrubby bushes.","Outside, wearing a Parka with a fur-trimmed hood, she heads up a slope of tall grasses and scrubby bushes.","13003.jpg",19,0,1,"A young woman.
 Jess. The Student. Jess sits chewing a pencil, which she puts down to search for her phone beneath papers on her desk, on which there's also a laptop.
 Jess who has long, curly auburn hair scans about her and looks puzzled."
-9_ADAssociates-US,a219,"In a jacket and scarf, Jess steps up an embankment past tall grasses.","In a jacket and scarf, Someone steps up an embankment past tall grasses.",13003.jpg,19,0,1,"She rummages through her papers
+"9_ADAssociates-US","a219","In a jacket and scarf, Jess steps up an embankment past tall grasses.","In a jacket and scarf, Someone steps up an embankment past tall grasses.","13003.jpg",19,0,1,"She rummages through her papers
 Jess looks to both sides and up
 Jess gathers her things"
-0_Able-NZ,a24,Jess emerges on to a dry plateau under a cloudless sky where Rick and James stand.,Someone emerges on to a dry plateau under a cloudless sky where Someone and Someone stand.,13266.jpg,20,0,1,"Checking behind her laptop, Jess locates her phone under a pile of papers.
+"0_Able-NZ","a24","Jess emerges on to a dry plateau under a cloudless sky where Rick and James stand.","Someone emerges on to a dry plateau under a cloudless sky where Someone and Someone stand.","13266.jpg",20,0,1,"Checking behind her laptop, Jess locates her phone under a pile of papers.
 Jess disconnects the call and looks around, her eyes roving.
 Later, Jess is outside, making her way through the grassy foliage on a slope before trotting out of sight."
-2_BTI-UK,a92,"She runs out onto a sun-bleached beach, where Rick and James are looking about them, in puzzlement.","She runs out onto a sun-bleached beach, where Someone and Someone are looking about them, in puzzlement.",13266.jpg,20,0,1,"Wearing a hooded jacket, she goes outside.
+"2_BTI-UK","a92","She runs out onto a sun-bleached beach, where Rick and James are looking about them, in puzzlement.","She runs out onto a sun-bleached beach, where Someone and Someone are looking about them, in puzzlement.","13266.jpg",20,0,1,"Wearing a hooded jacket, she goes outside.
 She climbs an overgrown slope, the sunlight reflected on her long ringlets
 She scampers off out of view"
-4_Ericsson-AU,a4722,"At the top of the ridge is a clearing, where James and Rick are standing on an expanse of sandy dirt. Jess joins them.","At the top of the ridge is a clearing, where Someone and Someone are standing on an expanse of sandy dirt. Someone joins them.",13266.jpg,20,0,1,"She searches her cluttered desk.
+"4_Ericsson-AU","a4722","At the top of the ridge is a clearing, where James and Rick are standing on an expanse of sandy dirt. Jess joins them.","At the top of the ridge is a clearing, where Someone and Someone are standing on an expanse of sandy dirt. Someone joins them.","13266.jpg",20,0,1,"She searches her cluttered desk.
 She finds her phone.
 Jess looks around her with a puzzled expression."
-5_Ericsson-UK,a23,She joins James and Rick on an arid patch of land bordered by parched vegetation.,She joins Someone and Someone on an arid patch of land bordered by parched vegetation.,13266.jpg,20,0,1,"Distracted by her mobile phone buzzing she searches for it in among the papers scattered around her laptop.
+"5_Ericsson-UK","a23","She joins James and Rick on an arid patch of land bordered by parched vegetation.","She joins Someone and Someone on an arid patch of land bordered by parched vegetation.","13266.jpg",20,0,1,"Distracted by her mobile phone buzzing she searches for it in among the papers scattered around her laptop.
 Jess looks about curiously, then lowers her gaze to her books.
 Giving up on her studies she heads outside to track down the source of the sound, heading up a grassy slope."
-6_Mennell-CA,a39,She joins James and Rick on a sandy plateau atop the hill.,She joins Someone and Someone on a sandy plateau atop the hill.,13266.jpg,20,0,1,"Later outside, she wears a jacket and scarf.
+"6_Mennell-CA","a39","She joins James and Rick on a sandy plateau atop the hill.","She joins Someone and Someone on a sandy plateau atop the hill.","13266.jpg",20,0,1,"Later outside, she wears a jacket and scarf.
 She hikes up an overgrown grassy slope.
 Her head turns sharply at the sound and she rushes off behind some tall grasses."
-7_MindsEye-UK,a46,"She arrives on a plateau on the hillside, near to James and Rick. The sun shines down brightly on the three small figures.","She arrives on a plateau on the hillside, near to Someone and Someone. The sun shines down brightly on the three small figures.",13266.jpg,20,0,1,"She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop.
+"7_MindsEye-UK","a46","She arrives on a plateau on the hillside, near to James and Rick. The sun shines down brightly on the three small figures.","She arrives on a plateau on the hillside, near to Someone and Someone. The sun shines down brightly on the three small figures.","13266.jpg",20,0,1,"She chews on a pencil.  Caption: Jess the student.  She puts down her pencil, searches for her phone on her desk, beside her Macbook laptop.
 She ends the call. She looks around, frowning, listening.
 She gets up, goes outside.  She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.  She climbs up the hillside, past trees and long grasses, pausing to look around her."
-9_ADAssociates-US,a34,"Jess, Rick, and James, all looking to the sky and around, meet on a stretch of sand.","Someone, Someone, and Someone, all looking to the sky and around, meet on a stretch of sand.",13266.jpg,20,0,1,"Jess looks to both sides and up.
+"9_ADAssociates-US","a34","Jess, Rick, and James, all looking to the sky and around, meet on a stretch of sand.","Someone, Someone, and Someone, all looking to the sky and around, meet on a stretch of sand.","13266.jpg",20,0,1,"Jess looks to both sides and up.
 Jess gathers her things.
 In a jacket and scarf, Jess steps up an embankment past tall grasses. Turns abruptly, then continues on."
-1_Bridge-US,a56,"Rick, James, and Jess gather together in a bright, sandy clearing. The three stand on the empty, sun-bleached ground, looking bewildered.","Someone, Someone, and Someone gather together in a bright, sandy clearing. The three stand on the empty, sun-bleached ground, looking bewildered.",13497.jpg,21,0,1,"She stares into the silence, looking puzzled.
+"1_Bridge-US","a56","Rick, James, and Jess gather together in a bright, sandy clearing. The three stand on the empty, sun-bleached ground, looking bewildered.","Someone, Someone, and Someone gather together in a bright, sandy clearing. The three stand on the empty, sun-bleached ground, looking bewildered.","13497.jpg",21,0,1,"She stares into the silence, looking puzzled.
 She jolts up.
 Now, outside, Jess hikes up a hill. Tall grass and plants cover the ground. Jess wears a coat and walks around, scanning with her eyes. The sun shines off the greenery. She stops and stares. Then, she continues hiking up."
-3_Deluxe-UK,a25,"Rick, James and Jess stand in a sandy clearing at the edge of scrubland.","Someone, Someone and Someone stand in a sandy clearing at the edge of scrubland.",13497.jpg,21,0,1,"Jess finds her phone under some papers and answers it.
+"3_Deluxe-UK","a25","Rick, James and Jess stand in a sandy clearing at the edge of scrubland.","Someone, Someone and Someone stand in a sandy clearing at the edge of scrubland.","13497.jpg",21,0,1,"Jess finds her phone under some papers and answers it.
 Frowning she hangs up and looks around, puzzled by the sound.
 She gets up and grabs a coat. Wearing her brown parka she walks up a hill. Tall grass and bushes surround her. She keeps looking around as she goes."
-4_Ericsson-AU,a4722,James and Rick are standing on an expanse of sandy dirt. Jess joins them.,Someone and Someone are standing on an expanse of sandy dirt. Someone joins them.,13497.jpg,21,0,1,"She searches her cluttered desk.
+"4_Ericsson-AU","a4722","James and Rick are standing on an expanse of sandy dirt. Jess joins them.","Someone and Someone are standing on an expanse of sandy dirt. Someone joins them.","13497.jpg",21,0,1,"She searches her cluttered desk.
 She finds her phone.
 Jess looks around her with a puzzled expression."
-6_Mennell-CA,a40,Standing apart from each other they look around in confusion.,Standing apart from each other they look around in confusion.,13497.jpg,21,0,1,"She hikes up an overgrown grassy slope.
+"6_Mennell-CA","a40","Standing apart from each other they look around in confusion.","Standing apart from each other they look around in confusion.","13497.jpg",21,0,1,"She hikes up an overgrown grassy slope.
 Her head turns sharply at the sound and she rushes off behind some tall grasses.
 Moments later she joins James and Rick on a sandy plateau atop the hill."
-8_SDI-UK,a31,"Jess, Rick and James are standing together. They’re in a sunny, sandy clearing. They're all standing well apart.","Someone, Someone and Someone are standing together. They’re in a sunny, sandy clearing. They're all standing well apart.",13497.jpg,21,0,1,"Jess who has long, curly auburn hair scans about her and looks puzzled.
+"8_SDI-UK","a31","Jess, Rick and James are standing together. They’re in a sunny, sandy clearing. They're all standing well apart.","Someone, Someone and Someone are standing together. They’re in a sunny, sandy clearing. They're all standing well apart.","13497.jpg",21,0,1,"Jess who has long, curly auburn hair scans about her and looks puzzled.
 Baffled by the sound,Jess gets up from her desk. Outside,wearing a Parka with a fur-trimmed hood, she looks about her then heads up a slope of tall grasses and scrubby bushes.
 She pauses to listen,then disappears into the vegetation."
-9_ADAssociates-US,a34,"Jess, Rick, and James, all looking to the sky and around, meet on a stretch of sand.","Someone, Someone, and Someone, all looking to the sky and around, meet on a stretch of sand.",13497.jpg,21,0,1,"Jess looks to both sides and up.
+"9_ADAssociates-US","a34","Jess, Rick, and James, all looking to the sky and around, meet on a stretch of sand.","Someone, Someone, and Someone, all looking to the sky and around, meet on a stretch of sand.","13497.jpg",21,0,1,"Jess looks to both sides and up.
 Jess gathers her things.
 In a jacket and scarf, Jess steps up an embankment past tall grasses. Turns abruptly, then continues on."
-3_Deluxe-UK,a25,They look around in confusion.,They look around in confusion.,13926.jpg,22,0,1,"Jess finds her phone under some papers and answers it.
+"3_Deluxe-UK","a25","They look around in confusion.","They look around in confusion.","13926.jpg",22,0,1,"Jess finds her phone under some papers and answers it.
 Frowning she hangs up and looks around, puzzled by the sound.
 She gets up and grabs a coat. Wearing her brown parka she walks up a hill. Tall grass and bushes surround her. She keeps looking around as she goes."
-3_Deluxe-UK,a26,"Under bright sunshine they all look up, puzzled.","Under bright sunshine they all look up, puzzled.",13926.jpg,22,0,1,"Frowning she hangs up and looks around, puzzled by the sound.
+"3_Deluxe-UK","a26","Under bright sunshine they all look up, puzzled.","Under bright sunshine they all look up, puzzled.","13926.jpg",22,0,1,"Frowning she hangs up and looks around, puzzled by the sound.
 She gets up and grabs a coat. Wearing her brown parka she walks up a hill. Tall grass and bushes surround her. She keeps looking around as she goes.
 Jess hurries away. Rick, James and Jess stand in a sandy clearing at the edge of scrubland. They look around in confusion. Rick talks on his phone."
-4_Ericsson-AU,a4723,"Jess, Rick and James are standing on an expanse of sandy dirt. They all look mystified.","Someone, Someone and Someone are standing on an expanse of sandy dirt. They all look mystified.",13926.jpg,22,0,1,"She finds her phone.
+"4_Ericsson-AU","a4723","Jess, Rick and James are standing on an expanse of sandy dirt. They all look mystified.","Someone, Someone and Someone are standing on an expanse of sandy dirt. They all look mystified.","13926.jpg",22,0,1,"She finds her phone.
 Jess looks around her with a puzzled expression.
 Outside, dressed in a warm jacket, jeans and a scarf, Jess scans her surroundings, then climbs up an overgrown hillside with the sun glinting on her long, springy hair. She pauses to look around, then hurries onward. At the top of the ridge is a clearing, where James and Rick are standing on an expanse of sandy dirt. Jess joins them."
-7_MindsEye-UK,a27,"The three stand there, blinking in the sunshine.","The three stand there, blinking in the sunshine, peering to see who is speaking.",13926.jpg,22,0,1,"She gets up, goes outside.  She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.  She climbs up the hillside, past trees and long grasses, pausing to look around her.
+"7_MindsEye-UK","a27","The three stand there, blinking in the sunshine.","The three stand there, blinking in the sunshine, peering to see who is speaking.","13926.jpg",22,0,1,"She gets up, goes outside.  She wears a warm coat with fur-trimmed hood, a patterned scarf around her neck.  She climbs up the hillside, past trees and long grasses, pausing to look around her.
 She arrives on a plateau on the hillside, near to James and Rick The sun shines down brightly on the three small figures.
 The speaker can’tt be seen."
-7_MindsEye-UK,a32,Rick. The wind blows his wiry hair.,Someone. The wind blows his wiry hair.,16066.jpg,23,0,1,"Their shadows are cast long.
+"7_MindsEye-UK","a32","Rick. The wind blows his wiry hair.","Someone. The wind blows his wiry hair.","16066.jpg",23,0,1,"Their shadows are cast long.
 Rick shrugs, hand to his head.
 Rick."
-0_Able-NZ,a32,The trio head off the plateau and towards the scrub.,The trio head off the plateau and towards the scrub.,18835.jpg,24,0,1,"James shakes his palms.
+"0_Able-NZ","a32","The trio head off the plateau and towards the scrub.","The trio head off the plateau and towards the scrub.","18835.jpg",24,0,1,"James shakes his palms.
 Rick follows him. After a moment's thought, Jess also follows.
 She jogs to catch up and falls in line between Rick and James, who put an arm around her shoulders."
-1_Bridge-US,a89,"The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain.","The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain.",18835.jpg,24,0,1,"James quickly peers at Rick. Rick shrugs and shakes his head. Rick looks at Jess.
+"1_Bridge-US","a89","The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain.","The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain.","18835.jpg",24,0,1,"James quickly peers at Rick. Rick shrugs and shakes his head. Rick looks at Jess.
 James smiles with closed lips.
 Rick follows James across the pebbly ground."
-2_BTI-UK,a97,All three walk off together.,All three walk off together.,18835.jpg,24,0,1,"Rick shrugs his shoulder and shakes his head. Jess shakes HER head
+"2_BTI-UK","a97","All three walk off together.","All three walk off together.","18835.jpg",24,0,1,"Rick shrugs his shoulder and shakes his head. Jess shakes HER head
 James smiles doubtfully.
 As James strolls off, Rick catches up with him. Jess considers,"
-3_Deluxe-UK,a33,They walk off together towards the scrubland.,They walk off together towards the scrubland.,18835.jpg,24,0,1,"James smiles.
+"3_Deluxe-UK","a33","They walk off together towards the scrubland.","They walk off together towards the scrubland.","18835.jpg",24,0,1,"James smiles.
 They consider. Rick shrugs and Jess shakes her head.
 Rick follows James. Jess thinks for a moment andsmiles to her self."
-4_Ericsson-AU,a4729,She walks between him and Rick back to the overgrown ridge at the edge of the clearing.,She walks between him and Someone back to the overgrown ridge at the edge of the clearing.,18835.jpg,24,0,1,"With a shrug, Rick shakes his head.
+"4_Ericsson-AU","a4729","She walks between him and Rick back to the overgrown ridge at the edge of the clearing.","She walks between him and Someone back to the overgrown ridge at the edge of the clearing.","18835.jpg",24,0,1,"With a shrug, Rick shakes his head.
 James smiles.
 Rick follows James, but Jess lingers behind, looking pensive."
-7_MindsEye-UK,a36,They walk away from us towards the path through the trees.,They walk away from us towards the path through the trees.,18835.jpg,24,0,1,"They look around.
+"7_MindsEye-UK","a36","They walk away from us towards the path through the trees.","They walk away from us towards the path through the trees.","18835.jpg",24,0,1,"They look around.
 Rick laughs.
 James waves his hands dismissively."
-8_SDI-UK,a39,They walk off merrily towards trees beneath a clear blue sky.,They walk off merrily towards trees beneath a clear blue sky.,18835.jpg,24,0,1,"They glance at each other. Rick shrugs and shakes his head.
+"8_SDI-UK","a39","They walk off merrily towards trees beneath a clear blue sky.","They walk off merrily towards trees beneath a clear blue sky.","18835.jpg",24,0,1,"They glance at each other. Rick shrugs and shakes his head.
 Rick follows James.Jessica stares down and considers.
 She smiles and runs after them in the sunshine."
-9_ADAssociates-US,a42,Their figures are tiny against the stretch of sand and foliage beyond.,Their figures are tiny against the stretch of sand and foliage beyond.,18835.jpg,24,0,1,"Rick shrugs and shakes his head. Jess shakes her head.
+"9_ADAssociates-US","a42","Their figures are tiny against the stretch of sand and foliage beyond.","Their figures are tiny against the stretch of sand and foliage beyond.","18835.jpg",24,0,1,"Rick shrugs and shakes his head. Jess shakes her head.
 Arms outspread.
 James and Rick turn and step away."
-0_Able-NZ,a32,"A woman is on the phone while pegging out washing. Subtitles read: No, I couldn't. I have to finish, really.","A woman is on the phone while pegging out washing. Subtitles read: No, I couldn't. I have to finish, really.",19287.jpg,25,1,1,"James shakes his palms.
+"0_Able-NZ","a32","A woman is on the phone while pegging out washing. Subtitles read: No, I couldn't. I have to finish, really.","A woman is on the phone while pegging out washing. Subtitles read: No, I couldn't. I have to finish, really.","19287.jpg",25,1,1,"James shakes his palms.
 Rick follows him. After a moment's thought, Jess also follows.
 She jogs to catch up and falls in line between Rick and James, who put an arm around her shoulders."
-1_Bridge-US,a68,"A woman speaks on a cell. Subtitles: No, I couldn't. I have to finish, really.","A woman speaks on a cell. Subtitles: No, I couldn't. I have to finish, really.",19287.jpg,25,1,1,"James smiles with closed lips.
+"1_Bridge-US","a68","A woman speaks on a cell. Subtitles: No, I couldn't. I have to finish, really.","A woman speaks on a cell. Subtitles: No, I couldn't. I have to finish, really.","19287.jpg",25,1,1,"James smiles with closed lips.
 Rick follows James across the pebbly ground.
 Jess looks down and smiles thoughtfully. She glances at the other two, then quickly runs to them. She walks between James and Rick. James softly places his arm around her shoulder. The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain. The image disappears to a black screen."
-2_BTI-UK,a98,"A young black woman is on the phone as she sorts through her washing. No I coudn't, I have to finish, really.",A young black woman is on the phone as she sorts through her washing.,19287.jpg,25,1,1,"James smiles doubtfully.
+"2_BTI-UK","a98","A young black woman is on the phone as she sorts through her washing. No I coudn't, I have to finish, really.","A young black woman is on the phone as she sorts through her washing.","19287.jpg",25,1,1,"James smiles doubtfully.
 As James strolls off, Rick catches up with him. Jess considers,
 With a smile, she follows them and all three walk off together."
-3_Deluxe-UK,a35,"A woman talks on her phone as she hangs out washing. She says: 'No, I couldn't I have to finish, really'","A woman talks on her phone as she hangs out washing. She says: 'No, I couldn't I have to finish, really'",19287.jpg,25,1,1,"Rick follows James. Jess thinks for a moment andsmiles to her self.
+"3_Deluxe-UK","a35","A woman talks on her phone as she hangs out washing. She says: 'No, I couldn't I have to finish, really'","A woman talks on her phone as she hangs out washing. She says: 'No, I couldn't I have to finish, really'","19287.jpg",25,1,1,"Rick follows James. Jess thinks for a moment andsmiles to her self.
 Jess runs over and joins the other two. They walk off together towards the scrubland.
 The screen cuts to black."
-4_Ericsson-AU,a4730,"A woman with black dreadlocks hanging washing on a rooftop. She says into her phone, ""No, I couldn't. I have to finish, really.""","A woman with black dreadlocks hanging washing on a rooftop. She says into her phone, ""No, I couldn't. I have to finish, really.""",19287.jpg,25,1,1,"James smiles.
+"4_Ericsson-AU","a4730","A woman with black dreadlocks hanging washing on a rooftop. She says into her phone, ""No, I couldn't. I have to finish, really.""","A woman with black dreadlocks hanging washing on a rooftop. She says into her phone, ""No, I couldn't. I have to finish, really.""","19287.jpg",25,1,1,"James smiles.
 Rick follows James, but Jess lingers behind, looking pensive.
 She jogs after the others, and James puts his arm around her as she walks between him and Rick back to the overgrown ridge at the edge of the clearing."
-5_Ericsson-UK,a29,"A woman talking on a mobile phone while hanging out washing. ""No, I couldn't I have to finish, reall""","A woman talking on a mobile phone while hanging out washing. ""No, I couldn't I have to finish, reall""",19287.jpg,25,1,1,"Rick shrugs and Jess shakes her head.
+"5_Ericsson-UK","a29","A woman talking on a mobile phone while hanging out washing. ""No, I couldn't I have to finish, reall""","A woman talking on a mobile phone while hanging out washing. ""No, I couldn't I have to finish, reall""","19287.jpg",25,1,1,"Rick shrugs and Jess shakes her head.
 Rick heads after James but Jess lingers for a moment, looking thoughtful, then chuckles to herself before joining them.
 James puts his arm around her shoulders for a brief moment, then rubs her back."
-6_Mennell-CA,a48,"A woman's on her phone and a subtitle reads, 'No, I couldn't. I have to finish, really.'","A woman's on her phone and a subtitle reads, 'No, I couldn't. I have to finish, really.'",19287.jpg,25,1,1,"Jessica raises her eyebrow then grins.
+"6_Mennell-CA","a48","A woman's on her phone and a subtitle reads, 'No, I couldn't. I have to finish, really.'","A woman's on her phone and a subtitle reads, 'No, I couldn't. I have to finish, really.'","19287.jpg",25,1,1,"Jessica raises her eyebrow then grins.
 She chases after the men and James puts his arm around her as they fall into step with each other.
 All goes black."
-7_MindsEye-UK,a37,"A young woman, her mobile phone pressed to her ear. She hangs washing on a line. Subtitle : No I couldn’t . I have to finish, really.","A young woman, her mobile phone pressed to her ear. She hangs washing on a line. Subtitle : No I couldn’t . I have to finish, really.",19287.jpg,25,1,1,"Rick laughs.
+"7_MindsEye-UK","a37","A young woman, her mobile phone pressed to her ear. She hangs washing on a line. Subtitle : No I couldn’t . I have to finish, really.","A young woman, her mobile phone pressed to her ear. She hangs washing on a line. Subtitle : No I couldn’t . I have to finish, really.","19287.jpg",25,1,1,"Rick laughs.
 James waves his hands dismissively.
 Rick sets off with James.  Jessica thinks for a moment, gives a “why not” smile and runs to join them.  They walk away from us towards the path through the trees, the men’s arms around Jessica’s shoulders."
-8_SDI-UK,a41,"A woman hangs out washing as she talks on her mobile: No, I couldn't. I have to finish,really.","A woman hangs out washing as she talks on her mobile: No, I couldn't. I have to finish,really.",19287.jpg,25,1,1,"She smiles and runs after them in the sunshine.
+"8_SDI-UK","a41","A woman hangs out washing as she talks on her mobile: No, I couldn't. I have to finish,really.","A woman hangs out washing as she talks on her mobile: No, I couldn't. I have to finish,really.","19287.jpg",25,1,1,"She smiles and runs after them in the sunshine.
 They walk off merrily towards trees beneath a clear blue sky.
 Blackness."
-9_ADAssociates-US,a43,"A woman on a phone, hanging laundry. No, I couldn’t. I have to finish, really.","A woman on a phone, hanging laundry. No, I couldn’t. I have to finish, really.",19287.jpg,25,1,1,"Arms outspread.
+"9_ADAssociates-US","a43","A woman on a phone, hanging laundry. No, I couldn’t. I have to finish, really.","A woman on a phone, hanging laundry. No, I couldn’t. I have to finish, really.","19287.jpg",25,1,1,"Arms outspread.
 James and Rick turn and step away.
 Jess joins them. Their figures are tiny against the stretch of sand and foliage beyond."
-0_Able-NZ,a32,A woman is on the phone while pegging out washing.,A woman is on the phone while pegging out washing.,19329.jpg,26,0,1,"James shakes his palms.
+"0_Able-NZ","a32","A woman is on the phone while pegging out washing.","A woman is on the phone while pegging out washing.","19329.jpg",26,0,1,"James shakes his palms.
 Rick follows him. After a moment's thought, Jess also follows.
 She jogs to catch up and falls in line between Rick and James, who put an arm around her shoulders."
-1_Bridge-US,a68,A woman speaks on a cell.,A woman speaks on a cell.,19329.jpg,26,0,1,"James smiles with closed lips.
+"1_Bridge-US","a68","A woman speaks on a cell.","A woman speaks on a cell.","19329.jpg",26,0,1,"James smiles with closed lips.
 Rick follows James across the pebbly ground.
 Jess looks down and smiles thoughtfully. She glances at the other two, then quickly runs to them. She walks between James and Rick. James softly places his arm around her shoulder. The three walk together across the dusty ground, heading toward the leafy plants and gentle mountain. The image disappears to a black screen."
-2_BTI-UK,a98,A young black woman is on the phone as she sorts through her washing.,A young black woman is on the phone as she sorts through her washing.,19329.jpg,26,0,1,"James smiles doubtfully.
+"2_BTI-UK","a98","A young black woman is on the phone as she sorts through her washing.","A young black woman is on the phone as she sorts through her washing.","19329.jpg",26,0,1,"James smiles doubtfully.
 As James strolls off, Rick catches up with him. Jess considers,
 With a smile, she follows them and all three walk off together."
-3_Deluxe-UK,a35,A woman talks on her phone as she hangs out washing. She frowns.,A woman talks on her phone as she hangs out washing. She frowns.,19329.jpg,26,0,1,"Rick follows James. Jess thinks for a moment andsmiles to her self.
+"3_Deluxe-UK","a35","A woman talks on her phone as she hangs out washing. She frowns.","A woman talks on her phone as she hangs out washing. She frowns.","19329.jpg",26,0,1,"Rick follows James. Jess thinks for a moment andsmiles to her self.
 Jess runs over and joins the other two. They walk off together towards the scrubland.
 The screen cuts to black."
-4_Ericsson-AU,a4730,A woman with black dreadlocks hanging washing on a rooftop.,A woman with black dreadlocks hanging washing on a rooftop.,19329.jpg,26,0,1,"James smiles.
+"4_Ericsson-AU","a4730","A woman with black dreadlocks hanging washing on a rooftop.","A woman with black dreadlocks hanging washing on a rooftop.","19329.jpg",26,0,1,"James smiles.
 Rick follows James, but Jess lingers behind, looking pensive.
 She jogs after the others, and James puts his arm around her as she walks between him and Rick back to the overgrown ridge at the edge of the clearing."
-5_Ericsson-UK,a29,A woman talking on a mobile phone while hanging out washing is distracted.,A woman talking on a mobile phone while hanging out washing is distracted by the shrill sound.,19329.jpg,26,0,1,"Rick shrugs and Jess shakes her head.
+"5_Ericsson-UK","a29","A woman talking on a mobile phone while hanging out washing is distracted.","A woman talking on a mobile phone while hanging out washing is distracted by the shrill sound.","19329.jpg",26,0,1,"Rick shrugs and Jess shakes her head.
 Rick heads after James but Jess lingers for a moment, looking thoughtful, then chuckles to herself before joining them.
 James puts his arm around her shoulders for a brief moment, then rubs her back."
-6_Mennell-CA,a48,A woman's on her phone.,A woman's on her phone.,19329.jpg,26,0,1,"Jessica raises her eyebrow then grins.
+"6_Mennell-CA","a48","A woman's on her phone.","A woman's on her phone.","19329.jpg",26,0,1,"Jessica raises her eyebrow then grins.
 She chases after the men and James puts his arm around her as they fall into step with each other.
 All goes black."
-7_MindsEye-UK,a37,"A young woman, her mobile phone pressed to her ear. She hangs washing on a line.","A young woman, her mobile phone pressed to her ear. She hangs washing on a line.",19329.jpg,26,0,1,"Rick laughs.
+"7_MindsEye-UK","a37","A young woman, her mobile phone pressed to her ear. She hangs washing on a line.","A young woman, her mobile phone pressed to her ear. She hangs washing on a line.","19329.jpg",26,0,1,"Rick laughs.
 James waves his hands dismissively.
 Rick sets off with James.  Jessica thinks for a moment, gives a “why not” smile and runs to join them.  They walk away from us towards the path through the trees, the men’s arms around Jessica’s shoulders."
-8_SDI-UK,a41,A woman hangs out washing as she talks on her mobile,A woman hangs out washing as she talks on her mobile,19329.jpg,26,0,1,"She smiles and runs after them in the sunshine.
+"8_SDI-UK","a41","A woman hangs out washing as she talks on her mobile","A woman hangs out washing as she talks on her mobile","19329.jpg",26,0,1,"She smiles and runs after them in the sunshine.
 They walk off merrily towards trees beneath a clear blue sky.
 Blackness."
-9_ADAssociates-US,a43,"A woman on a phone, hanging laundry.","A woman on a phone, hanging laundry.",19329.jpg,26,0,1,"Arms outspread.
+"9_ADAssociates-US","a43","A woman on a phone, hanging laundry.","A woman on a phone, hanging laundry.","19329.jpg",26,0,1,"Arms outspread.
 James and Rick turn and step away.
 Jess joins them. Their figures are tiny against the stretch of sand and foliage beyond."
-0_Able-NZ,a2611,"White text reads: Zoe, The next one.","White text reads: Zoe, The next one.",19505.jpg,27,1,0,"The trio head off the plateau and towards the scrub. Cut to black. A woman is on the phone while pegging out washing.
+"0_Able-NZ","a2611","White text reads: Zoe, The next one.","White text reads: Zoe, The next one.","19505.jpg",27,1,0,"The trio head off the plateau and towards the scrub. Cut to black. A woman is on the phone while pegging out washing.
 Subtitles read: No, I couldn't. I have to finish, really.
 No! What are you talking about? Of course, yes, our luggage is ready."
-1_Bridge-US,a74,"Words appear: Zoe, the Next One.","Words appear: Zoe, the Next One.",19505.jpg,27,1,0,"Subtitles: No, I couldn't. I have to finish, really.
+"1_Bridge-US","a74","Words appear: Zoe, the Next One.","Words appear: Zoe, the Next One.","19505.jpg",27,1,0,"Subtitles: No, I couldn't. I have to finish, really.
 She gazes up. No! What are you talking about? Of course yes, our luggage is ready…
 The woman furrows her brow. She looks around again. Listen, I cannot talk right now. I have to leave you."
-2_BTI-UK,a102,"In white capitals, Zoe, the next one,","In white capitals, Zoe, the next one,",19505.jpg,27,1,0,"No I coudn't, I have to finish, really. No, what are you talking about? Ofcourse yes, our luggage is ready.
+"2_BTI-UK","a102","In white capitals, Zoe, the next one,","In white capitals, Zoe, the next one,","19505.jpg",27,1,0,"No I coudn't, I have to finish, really. No, what are you talking about? Ofcourse yes, our luggage is ready.
 She looks up towards the sound.,
 Listen, I can't talk right now, I have to leave you."
-3_Deluxe-UK,a35,Zoe: The Next One.,Zoe: The Next One.,19505.jpg,27,1,0,"Rick follows James. Jess thinks for a moment andsmiles to her self.
+"3_Deluxe-UK","a35","Zoe: The Next One.","Zoe: The Next One.","19505.jpg",27,1,0,"Rick follows James. Jess thinks for a moment andsmiles to her self.
 Jess runs over and joins the other two. They walk off together towards the scrubland.
 The screen cuts to black."
-4_Ericsson-AU,a4731,"Onscreen: Zoe, the next one.","Onscreen: Zoe, the next one.",19505.jpg,27,1,0,"Rick follows James, but Jess lingers behind, looking pensive.
+"4_Ericsson-AU","a4731","Onscreen: Zoe, the next one.","Onscreen: Zoe, the next one.","19505.jpg",27,1,0,"Rick follows James, but Jess lingers behind, looking pensive.
 She jogs after the others, and James puts his arm around her as she walks between him and Rick back to the overgrown ridge at the edge of the clearing.
 Blackout, then a woman with black dreadlocks hanging washing on a rooftop. She says into her phone, ""No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready..."""
-5_Ericsson-UK,a31,Zoe  - the next one...,Zoe  - the next one...,19505.jpg,27,1,0,"James puts his arm around her shoulders for a brief moment, then rubs her back.
+"5_Ericsson-UK","a31","Zoe  - the next one...","Zoe  - the next one...","19505.jpg",27,1,0,"James puts his arm around her shoulders for a brief moment, then rubs her back.
 A woman talking on a mobile phone while hanging out washing is distracted by the shrill sound.
 ""No, I couldn't. I have to finish, really. No! What are you talking about? Of course yes, our luggage is ready..."""
-6_Mennell-CA,a51,"A title reads, 'Zoe, the next one.'","A title reads, 'Zoe, the next one.'",19505.jpg,27,1,0,"A woman's on her phone and a subtitle reads, 'No, I couldn't. I have to finish, really.'
+"6_Mennell-CA","a51","A title reads, 'Zoe, the next one.'","A title reads, 'Zoe, the next one.'","19505.jpg",27,1,0,"A woman's on her phone and a subtitle reads, 'No, I couldn't. I have to finish, really.'
 'No!' she says, 'What are you talking about? Of course yes, our luggage is ready.'
 She looks for the sound, then says, 'Listen, I cannot talk right now. I have to leave you'."
-7_MindsEye-UK,a37,"Caption: Zoe, the next one.","Caption: Zoe, the next one.",19505.jpg,27,1,0,"Rick laughs.
+"7_MindsEye-UK","a37","Caption: Zoe, the next one.","Caption: Zoe, the next one.","19505.jpg",27,1,0,"Rick laughs.
 James waves his hands dismissively.
 Rick sets off with James.  Jessica thinks for a moment, gives a “why not” smile and runs to join them.  They walk away from us towards the path through the trees, the men’s arms around Jessica’s shoulders."
-8_SDI-UK,a42,Zoe. The next one,Zoe. The next one,19505.jpg,27,1,0,"They walk off merrily towards trees beneath a clear blue sky.
+"8_SDI-UK","a42","Zoe. The next one","Zoe. The next one","19505.jpg",27,1,0,"They walk off merrily towards trees beneath a clear blue sky.
 Blackness.
 A woman hangs out washing as she talks on her mobile: No, I couldn't. I have to finish,really. No! What are you talking about? Of course yes, our luggage is ready. Listen, I cannot talk right now. I have to leave you."
-9_ADAssociates-US,a46,"Zoe, the next one.","Zoe, the next one.",19505.jpg,27,1,0,"A woman on a phone, hanging laundry.
+"9_ADAssociates-US","a46","Zoe, the next one.","Zoe, the next one.","19505.jpg",27,1,0,"A woman on a phone, hanging laundry.
 No, I couldn’t. I have to finish, really. She looks up. No! What are you talking about? Of cours yes, our luggage is ready. She looks arround.
 Listen, I cannot talk right now. I have to leave you."
