@@ -1,6 +1,6 @@
 # AD2AT 
 
-AD2AT: Audio Description to Alternative Text, a Dataset of Alternative Text from Movies [1]
+**AD2AT: Audio Description to Alternative Text, a Dataset of Alternative Text from Movies** [1] : https://hal.science/hal-04822417
 
 AD2AT comprises over 3,800 images paired with alt text, derived from audio-described movies. We take advantage of existing audio description datasets (Visuals Into Words and Movie Description) and provide a finer annotation to match one description to one image.
 
